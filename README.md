@@ -5,3 +5,6 @@ Hi, welcome to my SQL projects repository. The repository contains examples of S
 ## Highlighted Projects
 * **H1B VISA Petition Analysis**
 * Source: https://www.kaggle.com/datasets/nsharan/h-1b-visa
+
+* **Netflix Userbase Analysis**
+* https://www.kaggle.com/datasets/arnavsmayan/netflix-userbase-dataset/data
