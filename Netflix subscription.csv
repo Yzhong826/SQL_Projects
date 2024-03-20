@@ -1,0 +1,2501 @@
+﻿User ID,Subscription Type,Monthly Revenue (USD),Join Date,Last Payment Date,Device
+1,Basic,10,15-01-22,10/06/23,Smartphone
+2,Premium,15,05/09/21,22-06-23,Tablet
+3,Standard,12,28-02-23,27-06-23,Smart TV
+4,Standard,12,10/07/22,26-06-23,Laptop
+5,Basic,10,01/05/23,28-06-23,Smartphone
+6,Premium,15,18-03-22,27-06-23,Smart TV
+7,Standard,12,09/12/21,25-06-23,Tablet
+8,Basic,10,02/04/23,24-06-23,Laptop
+9,Standard,12,20-10-22,23-06-23,Smartphone
+10,Premium,15,07/01/23,22-06-23,Smart TV
+11,Basic,10,16-05-22,22-06-23,Smartphone
+12,Premium,15,23-03-23,28-06-23,Tablet
+13,Standard,12,30-11-21,27-06-23,Laptop
+14,Basic,10,01/08/22,26-06-23,Smartphone
+15,Standard,12,09/05/23,28-06-23,Smart TV
+16,Premium,15,07/04/22,27-06-23,Tablet
+17,Basic,10,24-01-22,25-06-23,Laptop
+18,Standard,12,18-10-21,24-06-23,Smartphone
+19,Premium,15,15-02-23,23-06-23,Smart TV
+20,Basic,10,27-05-23,22-06-23,Tablet
+21,Premium,15,10/06/23,22-06-23,Laptop
+22,Basic,10,22-07-22,28-06-23,Smartphone
+23,Standard,12,05/12/21,27-06-23,Smart TV
+24,Standard,12,03/04/22,26-06-23,Tablet
+25,Basic,10,14-03-23,28-06-23,Laptop
+26,Premium,15,12/01/22,27-06-23,Smartphone
+27,Basic,10,29-08-22,25-06-23,Smart TV
+28,Standard,12,27-09-21,24-06-23,Tablet
+29,Premium,15,19-12-22,23-06-23,Laptop
+30,Basic,10,17-05-23,22-06-23,Smartphone
+31,Premium,15,03/02/23,22-06-23,Smart TV
+32,Basic,10,07/07/22,28-06-23,Tablet
+33,Standard,12,21-01-22,27-06-23,Laptop
+34,Standard,12,25-05-22,26-06-23,Smartphone
+35,Basic,10,11/04/23,28-06-23,Smart TV
+36,Premium,15,01/03/22,27-06-23,Tablet
+37,Basic,10,14-09-22,25-06-23,Laptop
+38,Standard,12,05/11/21,24-06-23,Smartphone
+39,Premium,15,28-12-22,23-06-23,Smart TV
+40,Basic,10,07/03/23,22-06-23,Tablet
+41,Premium,15,20-01-23,22-06-23,Laptop
+42,Basic,10,15-06-22,28-06-23,Smartphone
+43,Standard,12,07/02/22,27-06-23,Smart TV
+44,Standard,12,26-04-22,26-06-23,Tablet
+45,Basic,10,28-01-23,28-06-23,Laptop
+46,Premium,15,23-02-22,27-06-23,Smartphone
+47,Basic,10,05/10/22,25-06-23,Smart TV
+48,Standard,12,15-09-21,24-06-23,Tablet
+49,Premium,15,10/11/22,23-06-23,Laptop
+50,Basic,10,02/06/23,22-06-23,Smartphone
+51,Premium,15,27-02-23,22-06-23,Smart TV
+52,Basic,10,29-08-22,28-06-23,Tablet
+53,Standard,12,13-01-22,27-06-23,Laptop
+54,Standard,12,30-06-22,26-06-23,Smartphone
+55,Basic,10,20-04-23,28-06-23,Smart TV
+56,Premium,15,15-03-22,27-06-23,Tablet
+57,Basic,10,01/10/22,25-06-23,Laptop
+58,Standard,12,08/10/21,24-06-23,Smartphone
+59,Premium,15,03/12/22,23-06-23,Smart TV
+60,Basic,10,14-06-23,22-06-23,Tablet
+61,Premium,15,08/02/23,22-06-23,Laptop
+62,Basic,10,03/08/22,28-06-23,Smartphone
+63,Standard,12,23-02-22,27-06-23,Smart TV
+64,Standard,12,20-06-22,26-06-23,Tablet
+65,Basic,10,29-03-23,28-06-23,Laptop
+66,Premium,15,30-01-22,27-06-23,Smartphone
+67,Basic,10,18-09-22,25-06-23,Smart TV
+68,Standard,12,09/11/21,24-06-23,Tablet
+69,Premium,15,23-12-22,23-06-23,Laptop
+70,Basic,10,08/05/23,22-06-23,Smartphone
+71,Basic,10,26-01-22,20-06-23,Smartphone
+72,Basic,10,11/10/22,22-06-23,Smartphone
+73,Standard,12,27-09-22,26-06-23,Laptop
+74,Premium,13,14-12-22,25-06-23,Smartphone
+75,Basic,13,28-05-22,26-06-23,Laptop
+76,Basic,13,29-12-21,26-06-23,Laptop
+77,Premium,15,25-12-22,23-06-23,Smartphone
+78,Standard,15,18-11-22,28-06-23,Tablet
+79,Standard,15,03/12/22,25-06-23,Laptop
+80,Basic,12,08/11/22,22-06-23,Tablet
+81,Premium,10,11/01/23,24-06-23,Tablet
+82,Standard,12,07/12/22,28-06-23,Laptop
+83,Basic,10,20-10-22,26-06-23,Smartphone
+84,Standard,12,13-04-23,25-06-23,Smartphone
+85,Premium,10,06/04/23,27-06-23,Laptop
+86,Basic,11,04/03/22,25-06-23,Smartphone
+87,Premium,15,28-12-21,23-06-23,Smart TV
+88,Standard,12,27-09-22,28-06-23,Tablet
+89,Basic,15,20-10-22,26-06-23,Smartphone
+90,Standard,13,03/02/23,23-06-23,Smartphone
+91,Premium,11,03/10/22,23-06-23,Tablet
+92,Basic,14,05/01/22,28-06-23,Smart TV
+93,Standard,12,05/02/22,26-06-23,Smartphone
+94,Premium,12,19-03-22,25-06-23,Smartphone
+95,Basic,11,28-02-22,25-06-23,Laptop
+96,Premium,14,26-07-22,24-06-23,Laptop
+97,Basic,10,05/03/22,24-06-23,Tablet
+98,Standard,13,07/03/22,28-06-23,Tablet
+99,Standard,12,13-01-23,24-06-23,Tablet
+100,Basic,12,22-01-23,25-06-23,Laptop
+101,Premium,11,17-10-22,24-06-23,Tablet
+102,Basic,12,29-03-22,28-06-23,Tablet
+103,Standard,13,04/04/22,26-06-23,Laptop
+104,Premium,10,08/06/22,25-06-23,Laptop
+105,Basic,11,04/03/22,27-06-23,Laptop
+106,Premium,10,18-03-22,24-06-23,Tablet
+107,Basic,14,07/03/22,24-06-23,Smart TV
+108,Standard,12,24-05-22,25-06-23,Smart TV
+109,Standard,13,08/02/23,25-06-23,Tablet
+110,Basic,13,26-01-23,24-06-23,Laptop
+111,Premium,14,14-07-22,27-06-23,Tablet
+112,Basic,10,01/06/22,28-06-23,Laptop
+113,Standard,15,07/05/22,26-06-23,Tablet
+114,Premium,10,18-11-22,25-06-23,Smartphone
+115,Basic,11,05/04/22,25-06-23,Laptop
+116,Premium,14,19-05-22,23-06-23,Smart TV
+117,Basic,15,30-10-21,23-06-23,Tablet
+118,Standard,12,07/08/22,27-06-23,Smartphone
+119,Standard,11,20-09-22,25-06-23,Smartphone
+120,Basic,10,18-10-22,25-06-23,Smart TV
+121,Premium,15,03/10/22,24-06-23,Smart TV
+122,Basic,11,03/05/22,28-06-23,Smart TV
+123,Standard,13,25-05-22,26-06-23,Smartphone
+124,Premium,15,05/11/22,25-06-23,Laptop
+125,Basic,12,21-08-22,24-06-23,Smartphone
+126,Premium,13,21-09-22,23-06-23,Laptop
+127,Basic,10,23-11-21,23-06-23,Smartphone
+128,Standard,12,06/10/22,27-06-23,Smartphone
+129,Standard,13,05/11/22,23-06-23,Smart TV
+130,Basic,14,07/01/23,23-06-23,Tablet
+131,Premium,15,06/10/22,23-06-23,Laptop
+132,Basic,15,24-06-22,28-06-23,Smart TV
+133,Standard,13,24-06-22,26-06-23,Smart TV
+134,Premium,15,05/11/22,25-06-23,Tablet
+135,Basic,13,18-07-22,26-06-23,Smart TV
+136,Premium,12,13-09-22,26-06-23,Smart TV
+137,Basic,12,10/08/22,22-06-23,Laptop
+138,Standard,15,21-09-22,23-06-23,Laptop
+139,Standard,13,24-03-23,23-06-23,Smartphone
+140,Basic,12,02/05/22,23-06-23,Smartphone
+141,Premium,12,11/05/22,27-06-23,Smartphone
+142,Basic,14,10/06/22,22-06-23,Smart TV
+143,Standard,14,31-08-22,24-06-23,Tablet
+144,Premium,10,17-08-22,26-06-23,Smart TV
+145,Basic,11,05/05/22,26-06-23,Laptop
+146,Basic,10,06/10/22,25-06-23,Tablet
+147,Basic,12,08/11/22,24-06-23,Laptop
+148,Standard,15,27-11-22,28-06-23,Smartphone
+149,Premium,13,17-11-22,27-06-23,Smart TV
+150,Basic,10,15-12-22,23-06-23,Laptop
+151,Basic,15,12/12/22,25-06-23,Laptop
+152,Premium,14,23-11-22,27-06-23,Tablet
+153,Standard,11,25-12-22,24-06-23,Smartphone
+154,Standard,11,11/03/23,27-06-23,Laptop
+155,Basic,14,18-11-22,27-06-23,Tablet
+156,Premium,15,19-08-22,25-06-23,Smartphone
+157,Standard,14,27-09-22,24-06-23,Laptop
+158,Basic,13,19-10-22,28-06-23,Smartphone
+159,Standard,10,21-12-22,26-06-23,Smart TV
+160,Premium,15,27-10-22,25-06-23,Smartphone
+161,Basic,10,23-10-22,24-06-23,Tablet
+162,Premium,15,19-04-22,25-06-23,Laptop
+163,Standard,11,05/04/22,26-06-23,Laptop
+164,Basic,11,11/03/22,26-06-23,Tablet
+165,Standard,14,25-05-22,25-06-23,Tablet
+166,Premium,13,16-04-22,26-06-23,Laptop
+167,Basic,13,07/04/22,24-06-23,Smartphone
+168,Standard,10,11/12/22,28-06-23,Tablet
+169,Premium,12,20-01-23,26-06-23,Tablet
+170,Basic,14,12/01/23,25-06-23,Laptop
+171,Premium,11,29-04-22,24-06-23,Tablet
+172,Basic,12,27-04-22,26-06-23,Smartphone
+173,Standard,15,03/06/22,25-06-23,Smartphone
+174,Standard,14,23-04-22,25-06-23,Tablet
+175,Basic,10,22-04-22,26-06-23,Laptop
+176,Premium,13,12/04/22,25-06-23,Smart TV
+177,Basic,15,23-05-22,26-06-23,Smartphone
+178,Standard,13,19-10-22,26-06-23,Laptop
+179,Premium,10,03/12/22,26-06-23,Tablet
+180,Basic,14,26-09-22,25-06-23,Laptop
+181,Premium,15,16-06-22,27-06-23,Smartphone
+182,Basic,13,16-05-22,25-06-23,Laptop
+183,Standard,15,26-05-22,26-06-23,Tablet
+184,Standard,13,26-04-22,25-06-23,Laptop
+185,Basic,11,12/05/22,25-06-23,Tablet
+186,Premium,12,01/03/22,25-06-23,Smart TV
+187,Basic,13,10/07/22,24-06-23,Laptop
+188,Standard,15,16-07-22,27-06-23,Smart TV
+189,Premium,13,02/09/22,26-06-23,Smart TV
+190,Basic,11,18-09-22,26-06-23,Tablet
+191,Premium,10,08/07/22,25-06-23,Laptop
+192,Basic,14,26-06-22,27-06-23,Smartphone
+193,Standard,11,05/08/22,25-06-23,Laptop
+194,Standard,14,19-08-22,27-06-23,Laptop
+195,Basic,11,26-08-22,24-06-23,Smartphone
+196,Premium,13,09/06/22,24-06-23,Smart TV
+197,Basic,14,27-09-22,23-06-23,Tablet
+198,Standard,10,18-10-22,27-06-23,Laptop
+199,Premium,14,31-10-22,25-06-23,Tablet
+200,Basic,11,13-10-22,25-06-23,Tablet
+201,Premium,11,04/07/22,27-06-23,Smart TV
+202,Basic,12,26-06-22,27-06-23,Tablet
+203,Standard,13,31-07-22,24-06-23,Smart TV
+204,Standard,12,27-07-22,24-06-23,Smartphone
+205,Basic,12,30-07-22,25-06-23,Smart TV
+206,Premium,11,06/08/22,25-06-23,Smartphone
+207,Basic,15,16-09-22,24-06-23,Smartphone
+208,Standard,15,05/01/23,23-06-23,Tablet
+209,Premium,11,10/12/22,24-06-23,Laptop
+210,Basic,14,22-11-22,26-06-23,Laptop
+211,Premium,15,15-11-22,27-06-23,Tablet
+212,Basic,11,28-10-22,26-06-23,Smart TV
+213,Standard,12,08/09/22,24-06-23,Smart TV
+214,Standard,13,30-06-22,28-06-23,Laptop
+215,Basic,13,02/09/22,27-06-23,Smartphone
+216,Premium,14,08/10/22,24-06-23,Smart TV
+217,Basic,15,13-11-22,25-06-23,Smart TV
+218,Standard,12,15-11-22,28-06-23,Tablet
+219,Premium,12,16-11-22,25-06-23,Smartphone
+220,Basic,12,26-11-22,27-06-23,Tablet
+221,Basic,12,26-11-22,25-06-23,Smartphone
+222,Basic,10,12/12/22,26-06-23,Smartphone
+223,Standard,12,08/01/23,25-06-23,Smartphone
+224,Premium,15,27-11-22,29-06-23,Smartphone
+225,Basic,14,11/10/22,27-06-23,Smartphone
+226,Basic,10,27-09-22,26-06-23,Smartphone
+227,Premium,12,30-09-22,24-06-23,Smartphone
+228,Standard,10,04/11/22,27-06-23,Smart TV
+229,Standard,13,04/11/22,27-06-23,Smartphone
+230,Basic,12,30-10-22,26-06-23,Laptop
+231,Premium,11,29-10-22,24-06-23,Smartphone
+232,Standard,11,30-08-22,27-06-23,Smartphone
+233,Basic,15,07/07/22,26-06-23,Smart TV
+234,Standard,14,26-05-22,27-06-23,Laptop
+235,Premium,11,17-05-22,25-06-23,Laptop
+236,Basic,11,08/05/22,26-06-23,Smartphone
+237,Premium,13,07/07/22,25-06-23,Tablet
+238,Standard,15,17-07-22,28-06-23,Smartphone
+239,Basic,15,23-12-22,26-06-23,Smart TV
+240,Standard,13,27-06-22,26-06-23,Smartphone
+241,Premium,13,31-05-22,27-06-23,Laptop
+242,Basic,12,02/06/22,26-06-23,Laptop
+243,Standard,11,25-05-22,27-06-23,Laptop
+244,Premium,15,26-04-22,26-06-23,Smartphone
+245,Basic,13,20-04-22,26-06-23,Smart TV
+246,Premium,11,03/05/22,25-06-23,Smartphone
+247,Basic,12,07/07/22,27-06-23,Smart TV
+248,Standard,13,15-09-22,26-06-23,Smartphone
+249,Standard,14,16-09-22,27-06-23,Smartphone
+250,Basic,14,09/08/22,26-06-23,Laptop
+251,Premium,15,25-06-22,27-06-23,Laptop
+252,Basic,11,30-05-22,26-06-23,Smartphone
+253,Standard,15,21-05-22,25-06-23,Tablet
+254,Premium,12,20-05-22,27-06-23,Smart TV
+255,Basic,13,20-05-22,26-06-23,Smart TV
+256,Premium,12,30-05-22,26-06-23,Tablet
+257,Basic,13,17-06-22,25-06-23,Laptop
+258,Standard,11,16-07-22,28-06-23,Smartphone
+259,Standard,15,05/08/22,26-06-23,Smartphone
+260,Basic,10,17-07-22,26-06-23,Smartphone
+261,Premium,13,04/07/22,25-06-23,Smart TV
+262,Basic,12,13-07-22,26-06-23,Tablet
+263,Standard,15,25-07-22,24-06-23,Smartphone
+264,Premium,10,09/08/22,27-06-23,Smartphone
+265,Basic,11,05/08/22,25-06-23,Smart TV
+266,Premium,10,17-08-22,26-06-23,Tablet
+267,Basic,11,08/09/22,27-06-23,Laptop
+268,Standard,13,16-10-22,28-06-23,Smart TV
+269,Standard,13,15-10-22,25-06-23,Laptop
+270,Basic,12,04/09/22,25-06-23,Smart TV
+271,Premium,14,20-08-22,26-06-23,Laptop
+272,Basic,10,10/08/22,26-06-23,Smartphone
+273,Standard,12,02/08/22,25-06-23,Laptop
+274,Premium,10,01/08/22,24-06-23,Tablet
+275,Basic,15,06/08/22,25-06-23,Laptop
+276,Premium,14,09/08/22,25-06-23,Smart TV
+277,Basic,13,12/09/22,26-06-23,Tablet
+278,Standard,14,27-09-22,26-06-23,Laptop
+279,Standard,15,12/11/22,24-06-23,Laptop
+280,Basic,12,13-11-22,27-06-23,Laptop
+281,Premium,12,02/11/22,28-06-23,Smart TV
+282,Basic,11,30-10-22,25-06-23,Smart TV
+283,Standard,15,30-06-22,26-06-23,Smartphone
+284,Premium,14,04/08/22,28-06-23,Smartphone
+285,Basic,10,01/09/22,27-06-23,Laptop
+286,Premium,14,14-10-22,27-06-23,Laptop
+287,Basic,10,16-10-22,26-06-23,Smartphone
+288,Standard,14,20-10-22,28-06-23,Smart TV
+289,Standard,15,20-11-22,25-06-23,Smart TV
+290,Basic,12,25-11-22,30-06-23,Smartphone
+291,Premium,13,04/12/22,27-06-23,Tablet
+292,Basic,11,12/12/22,27-06-23,Laptop
+293,Standard,14,09/12/22,25-06-23,Laptop
+294,Premium,10,15-10-22,29-06-23,Laptop
+295,Basic,14,03/10/22,27-06-23,Laptop
+296,Basic,12,01/10/22,27-06-23,Tablet
+297,Basic,13,02/11/22,24-06-23,Smartphone
+298,Standard,14,03/11/22,27-06-23,Tablet
+299,Premium,10,30-10-22,27-06-23,Smartphone
+300,Basic,11,30-10-22,28-06-23,Laptop
+301,Basic,10,27-09-22,24-06-23,Laptop
+302,Premium,11,14-09-22,27-06-23,Tablet
+303,Standard,12,11/06/22,26-06-23,Tablet
+304,Standard,12,11/06/22,29-06-23,Smartphone
+305,Basic,13,24-05-22,26-06-23,Smart TV
+306,Premium,13,06/07/22,27-06-23,Tablet
+307,Standard,11,08/07/22,28-06-23,Smart TV
+308,Basic,13,27-10-22,27-06-23,Smart TV
+309,Standard,11,09/08/22,28-06-23,Smartphone
+310,Premium,15,14-06-22,26-06-23,Smartphone
+311,Basic,15,07/06/22,27-06-23,Smartphone
+312,Premium,12,27-05-22,26-06-23,Laptop
+313,Standard,13,27-05-22,27-06-23,Laptop
+314,Basic,10,21-04-22,26-06-23,Laptop
+315,Standard,15,28-04-22,27-06-23,Smart TV
+316,Premium,12,27-05-22,25-06-23,Laptop
+317,Basic,15,25-08-22,28-06-23,Tablet
+318,Standard,10,02/09/22,27-06-23,Laptop
+319,Premium,14,22-08-22,26-06-23,Smartphone
+320,Basic,15,02/08/22,27-06-23,Laptop
+321,Premium,12,22-06-22,27-06-23,Smartphone
+322,Basic,15,04/06/22,27-06-23,Smartphone
+323,Standard,14,31-05-22,26-06-23,Smartphone
+324,Standard,15,22-05-22,27-06-23,Tablet
+325,Basic,13,29-05-22,27-06-23,Tablet
+326,Premium,11,11/06/22,27-06-23,Smartphone
+327,Basic,12,06/07/22,26-06-23,Smartphone
+328,Standard,12,26-07-22,27-06-23,Tablet
+329,Premium,11,22-07-22,25-06-23,Smart TV
+330,Basic,10,06/07/22,26-06-23,Smart TV
+331,Premium,14,08/07/22,26-06-23,Tablet
+332,Basic,14,22-07-22,26-06-23,Tablet
+333,Standard,15,24-07-22,27-06-23,Smart TV
+334,Standard,11,28-07-22,28-06-23,Smart TV
+335,Basic,10,11/08/22,25-06-23,Tablet
+336,Premium,12,02/09/22,26-06-23,Laptop
+337,Basic,13,11/10/22,27-06-23,Laptop
+338,Standard,12,15-10-22,27-06-23,Tablet
+339,Premium,13,05/10/22,25-06-23,Laptop
+340,Basic,14,13-09-22,25-06-23,Smartphone
+341,Premium,13,24-08-22,26-06-23,Laptop
+342,Basic,11,09/08/22,26-06-23,Laptop
+343,Standard,13,06/08/22,25-06-23,Smart TV
+344,Standard,13,07/08/22,26-06-23,Smartphone
+345,Basic,10,08/08/22,25-06-23,Smart TV
+346,Premium,15,31-08-22,26-06-23,Tablet
+347,Basic,14,21-09-22,28-06-23,Smartphone
+348,Standard,14,05/10/22,26-06-23,Smart TV
+349,Premium,14,02/11/22,26-06-23,Smartphone
+350,Basic,10,02/11/22,28-06-23,Smartphone
+351,Premium,11,02/11/22,28-06-23,Smart TV
+352,Basic,10,20-09-22,26-06-23,Laptop
+353,Standard,14,10/08/22,26-06-23,Smartphone
+354,Standard,10,16-08-22,28-06-23,Laptop
+355,Basic,15,12/10/22,27-06-23,Tablet
+356,Premium,11,14-10-22,30-06-23,Smart TV
+357,Basic,15,18-10-22,26-06-23,Smartphone
+358,Standard,12,11/11/22,28-06-23,Smart TV
+359,Premium,11,20-11-22,26-06-23,Smartphone
+360,Basic,15,21-11-22,30-06-23,Tablet
+361,Premium,12,25-11-22,28-06-23,Laptop
+362,Basic,11,08/12/22,27-06-23,Laptop
+363,Standard,12,01/11/22,25-06-23,Smart TV
+364,Standard,14,12/10/22,29-06-23,Smart TV
+365,Basic,11,13-10-22,27-06-23,Laptop
+366,Premium,12,17-10-22,29-06-23,Smart TV
+367,Basic,13,23-10-22,25-06-23,Laptop
+368,Standard,13,24-10-22,28-06-23,Smartphone
+369,Premium,12,25-10-22,27-06-23,Smartphone
+370,Basic,11,22-10-22,29-06-23,Smartphone
+371,Basic,11,30-09-22,25-06-23,Tablet
+372,Basic,11,06/09/22,27-06-23,Tablet
+373,Standard,10,18-06-22,26-06-23,Tablet
+374,Premium,10,12/06/22,28-06-23,Laptop
+375,Basic,14,17-06-22,28-06-23,Laptop
+376,Basic,12,20-06-22,27-06-23,Smartphone
+377,Premium,12,27-08-22,28-06-23,Laptop
+378,Standard,14,13-08-22,27-06-23,Laptop
+379,Standard,10,12/08/22,28-06-23,Smart TV
+380,Basic,15,05/08/22,27-06-23,Smart TV
+381,Premium,10,14-07-22,27-06-23,Laptop
+382,Standard,10,07/06/22,26-06-23,Smart TV
+383,Basic,10,01/06/22,27-06-23,Smart TV
+384,Standard,10,19-05-22,28-06-23,Smartphone
+385,Premium,15,22-05-22,27-06-23,Smartphone
+386,Basic,14,11/07/22,26-06-23,Tablet
+387,Premium,11,19-07-22,28-06-23,Tablet
+388,Standard,12,21-07-22,28-06-23,Laptop
+389,Basic,14,02/08/22,26-06-23,Smart TV
+390,Standard,13,03/07/22,28-06-23,Laptop
+391,Premium,13,23-06-22,27-06-23,Laptop
+392,Basic,15,03/06/22,28-06-23,Smart TV
+393,Standard,10,03/06/22,26-06-23,Tablet
+394,Premium,14,30-05-22,27-06-23,Tablet
+395,Basic,12,05/06/22,26-06-23,Laptop
+396,Premium,14,10/06/22,27-06-23,Smartphone
+397,Basic,11,14-07-22,26-06-23,Smartphone
+398,Standard,13,15-07-22,27-06-23,Tablet
+399,Standard,12,14-07-22,25-06-23,Smartphone
+400,Basic,14,13-07-22,27-06-23,Laptop
+401,Premium,12,17-07-22,26-06-23,Laptop
+402,Basic,14,21-07-22,26-06-23,Smartphone
+403,Standard,13,23-07-22,28-06-23,Smartphone
+404,Premium,13,01/08/22,28-06-23,Smartphone
+405,Basic,13,06/08/22,26-06-23,Tablet
+406,Premium,12,19-08-22,26-06-23,Smartphone
+407,Basic,12,26-08-22,27-06-23,Tablet
+408,Standard,13,27-09-22,27-06-23,Tablet
+409,Standard,14,15-09-22,25-06-23,Smartphone
+410,Basic,15,02/09/22,25-06-23,Smart TV
+411,Premium,14,03/09/22,26-06-23,Tablet
+412,Basic,12,03/09/22,26-06-23,Laptop
+413,Standard,13,24-08-22,26-06-23,Smartphone
+414,Premium,14,21-08-22,27-06-23,Laptop
+415,Basic,13,23-08-22,25-06-23,Smartphone
+416,Premium,10,02/09/22,26-06-23,Tablet
+417,Basic,14,21-09-22,29-06-23,Smart TV
+418,Standard,14,21-10-22,27-06-23,Smart TV
+419,Standard,11,30-10-22,27-06-23,Laptop
+420,Basic,10,02/11/22,28-06-23,Laptop
+421,Premium,14,16-10-22,28-06-23,Tablet
+422,Basic,14,15-09-22,29-06-23,Tablet
+423,Standard,15,12/09/22,27-06-23,Smartphone
+424,Premium,12,18-09-22,29-06-23,Tablet
+425,Basic,13,04/10/22,27-06-23,Tablet
+426,Premium,15,05/10/22,30-06-23,Laptop
+427,Basic,11,06/11/22,26-06-23,Smart TV
+428,Standard,12,17-11-22,28-06-23,Smartphone
+429,Standard,14,18-11-22,26-06-23,Laptop
+430,Basic,14,22-11-22,30-06-23,Smart TV
+431,Premium,15,04/12/22,28-06-23,Smart TV
+432,Basic,12,19-11-22,30-06-23,Smart TV
+433,Standard,11,06/11/22,25-06-23,Smartphone
+434,Premium,12,15-10-22,29-06-23,Laptop
+435,Basic,11,17-10-22,28-06-23,Smart TV
+436,Premium,11,19-10-22,29-06-23,Smartphone
+437,Basic,13,23-10-22,25-06-23,Smart TV
+438,Standard,12,24-10-22,28-06-23,Smart TV
+439,Standard,12,23-10-22,27-06-23,Smart TV
+440,Basic,11,10/10/22,29-06-23,Tablet
+441,Premium,13,05/10/22,28-06-23,Laptop
+442,Basic,12,01/07/22,27-06-23,Laptop
+443,Standard,10,01/07/22,27-06-23,Smart TV
+444,Premium,10,25-06-22,28-06-23,Smartphone
+445,Basic,12,24-06-22,28-06-23,Tablet
+446,Basic,14,28-06-22,28-06-23,Smartphone
+447,Basic,15,11/08/22,28-06-23,Laptop
+448,Standard,14,12/08/22,27-06-23,Tablet
+449,Premium,10,07/08/22,28-06-23,Laptop
+450,Basic,14,06/08/22,27-06-23,Laptop
+451,Basic,12,18-07-22,28-06-23,Laptop
+452,Premium,12,16-06-22,26-06-23,Laptop
+453,Standard,11,30-05-22,28-06-23,Tablet
+454,Standard,15,28-05-22,28-06-23,Tablet
+455,Basic,11,31-05-22,27-06-23,Smart TV
+456,Premium,14,04/06/22,27-06-23,Tablet
+457,Standard,14,29-06-22,28-06-23,Smart TV
+458,Basic,10,24-07-22,28-06-23,Tablet
+459,Standard,10,19-07-22,27-06-23,Tablet
+460,Premium,10,30-06-22,28-06-23,Smart TV
+461,Basic,11,16-06-22,27-06-23,Smart TV
+462,Premium,15,10/06/22,28-06-23,Smartphone
+463,Standard,11,01/06/22,26-06-23,Smart TV
+464,Basic,13,03/06/22,28-06-23,Laptop
+465,Standard,11,05/06/22,26-06-23,Laptop
+466,Premium,10,07/06/22,27-06-23,Laptop
+467,Basic,10,22-06-22,26-06-23,Laptop
+468,Standard,11,28-06-22,27-06-23,Smart TV
+469,Premium,12,29-06-22,29-06-23,Tablet
+470,Basic,15,03/07/22,28-06-23,Tablet
+471,Premium,15,08/07/22,27-06-23,Tablet
+472,Basic,10,13-07-22,27-06-23,Tablet
+473,Standard,10,27-07-22,28-06-23,Smartphone
+474,Standard,14,30-07-22,28-06-23,Smartphone
+475,Basic,11,13-08-22,26-06-23,Smart TV
+476,Premium,14,18-08-22,26-06-23,Laptop
+477,Basic,10,24-08-22,27-06-23,Laptop
+478,Standard,10,08/09/22,27-06-23,Laptop
+479,Premium,13,04/09/22,27-06-23,Smartphone
+480,Basic,15,04/09/22,27-06-23,Laptop
+481,Premium,12,04/09/22,26-06-23,Smart TV
+482,Basic,11,27-08-22,27-06-23,Smart TV
+483,Standard,14,25-08-22,27-06-23,Smart TV
+484,Standard,13,25-08-22,28-06-23,Smartphone
+485,Basic,14,01/09/22,28-06-23,Tablet
+486,Premium,15,13-09-22,26-06-23,Laptop
+487,Basic,15,05/10/22,29-06-23,Smart TV
+488,Standard,11,08/10/22,28-06-23,Smart TV
+489,Premium,11,26-10-22,28-06-23,Tablet
+490,Basic,12,18-10-22,29-06-23,Smart TV
+491,Premium,12,07/10/22,28-06-23,Smartphone
+492,Basic,10,17-09-22,30-06-23,Tablet
+493,Standard,11,18-09-22,27-06-23,Smartphone
+494,Standard,14,27-09-22,29-06-23,Smart TV
+495,Basic,13,30-09-22,27-06-23,Smartphone
+496,Premium,10,30-10-22,30-06-23,Laptop
+497,Basic,11,09/11/22,29-06-23,Smartphone
+498,Standard,11,17-11-22,28-06-23,Smartphone
+499,Premium,10,18-11-22,26-06-23,Laptop
+500,Basic,15,22-11-22,30-06-23,Laptop
+501,Premium,14,22-11-22,28-06-23,Smartphone
+502,Basic,13,21-11-22,30-06-23,Smartphone
+503,Standard,14,10/11/22,26-06-23,Tablet
+504,Standard,12,21-10-22,29-06-23,Laptop
+505,Basic,11,21-10-22,28-06-23,Smartphone
+506,Premium,14,23-10-22,29-06-23,Smart TV
+507,Basic,15,24-10-22,26-06-23,Tablet
+508,Standard,12,23-10-22,28-06-23,Tablet
+509,Premium,10,21-10-22,28-06-23,Smartphone
+510,Basic,15,06/10/22,29-06-23,Tablet
+511,Premium,11,26-07-22,28-06-23,Smart TV
+512,Basic,15,13-07-22,28-06-23,Tablet
+513,Standard,10,06/07/22,28-06-23,Tablet
+514,Standard,14,07/07/22,28-06-23,Tablet
+515,Basic,15,01/07/22,29-06-23,Laptop
+516,Premium,14,31-07-22,28-06-23,Smart TV
+517,Basic,12,06/08/22,28-06-23,Smart TV
+518,Standard,15,07/08/22,27-06-23,Tablet
+519,Premium,10,06/08/22,28-06-23,Smartphone
+520,Basic,13,03/08/22,28-06-23,Smart TV
+521,Basic,15,18-06-22,28-06-23,Smart TV
+522,Basic,14,17-06-22,27-06-23,Tablet
+523,Standard,13,07/06/22,29-06-23,Smartphone
+524,Premium,15,06/06/22,28-06-23,Tablet
+525,Basic,14,04/06/22,27-06-23,Tablet
+526,Basic,11,20-06-22,28-06-23,Laptop
+527,Premium,10,10/07/22,28-06-23,Tablet
+528,Standard,13,13-07-22,29-06-23,Smartphone
+529,Standard,11,07/07/22,27-06-23,Laptop
+530,Basic,14,22-06-22,28-06-23,Smart TV
+531,Premium,14,15-06-22,27-06-23,Laptop
+532,Standard,11,03/06/22,28-06-23,Laptop
+533,Basic,14,04/06/22,27-06-23,Smartphone
+534,Standard,11,05/06/22,28-06-23,Smart TV
+535,Premium,15,07/06/22,29-06-23,Laptop
+536,Basic,10,14-06-22,29-06-23,Smart TV
+537,Premium,10,17-06-22,27-06-23,Smartphone
+538,Standard,14,19-06-22,28-06-23,Tablet
+539,Basic,12,02/07/22,29-06-23,Tablet
+540,Standard,10,03/07/22,29-06-23,Smartphone
+541,Premium,10,13-07-22,27-06-23,Smart TV
+542,Basic,14,26-07-22,27-06-23,Smartphone
+543,Standard,11,27-07-22,28-06-23,Smartphone
+544,Premium,14,08/08/22,28-06-23,Tablet
+545,Basic,14,17-08-22,27-06-23,Smart TV
+546,Premium,10,20-08-22,26-06-23,Smart TV
+547,Basic,10,05/09/22,27-06-23,Tablet
+548,Standard,12,05/09/22,27-06-23,Smartphone
+549,Standard,10,05/09/22,27-06-23,Smartphone
+550,Basic,11,06/09/22,27-06-23,Tablet
+551,Premium,13,03/09/22,28-06-23,Laptop
+552,Basic,13,29-08-22,27-06-23,Tablet
+553,Standard,14,27-08-22,28-06-23,Smart TV
+554,Premium,12,29-08-22,29-06-23,Smartphone
+555,Basic,11,13-09-22,28-06-23,Smartphone
+556,Premium,14,24-09-22,27-06-23,Smartphone
+557,Basic,15,05/10/22,29-06-23,Smartphone
+558,Standard,14,18-10-22,30-06-23,Smart TV
+559,Standard,13,19-10-22,28-06-23,Tablet
+560,Basic,15,14-10-22,29-06-23,Laptop
+561,Premium,14,30-09-22,28-06-23,Laptop
+562,Basic,14,19-09-22,30-06-23,Laptop
+563,Standard,10,24-09-22,29-06-23,Tablet
+564,Premium,14,28-09-22,29-06-23,Smartphone
+565,Basic,12,29-09-22,27-06-23,Laptop
+566,Premium,11,11/10/22,01/07/23,Tablet
+567,Basic,14,08/11/22,29-06-23,Smart TV
+568,Standard,11,16-11-22,28-06-23,Laptop
+569,Standard,10,17-11-22,26-06-23,Laptop
+570,Basic,10,20-11-22,30-06-23,Laptop
+571,Premium,13,21-11-22,29-06-23,Smart TV
+572,Basic,12,21-11-22,30-06-23,Tablet
+573,Standard,12,18-11-22,27-06-23,Smart TV
+574,Premium,14,26-10-22,29-06-23,Smartphone
+575,Basic,13,25-10-22,28-06-23,Smart TV
+576,Premium,15,26-10-22,30-06-23,Tablet
+577,Basic,15,23-10-22,26-06-23,Laptop
+578,Standard,13,23-10-22,28-06-23,Laptop
+579,Standard,12,16-10-22,28-06-23,Tablet
+580,Basic,14,09/08/22,29-06-23,Tablet
+581,Premium,10,02/08/22,29-06-23,Laptop
+582,Basic,12,16-07-22,28-06-23,Laptop
+583,Standard,15,17-07-22,28-06-23,Tablet
+584,Premium,14,14-07-22,28-06-23,Smart TV
+585,Basic,14,16-07-22,29-06-23,Laptop
+586,Premium,15,06/08/22,29-06-23,Laptop
+587,Basic,14,07/08/22,28-06-23,Smart TV
+588,Standard,11,07/08/22,27-06-23,Smartphone
+589,Standard,15,04/08/22,29-06-23,Laptop
+590,Basic,15,29-07-22,29-06-23,Laptop
+591,Premium,14,19-06-22,28-06-23,Smart TV
+592,Basic,15,09/06/22,29-06-23,Smartphone
+593,Standard,11,06/06/22,29-06-23,Smartphone
+594,Premium,12,06/06/22,30-06-23,Smart TV
+595,Basic,10,11/06/22,28-06-23,Laptop
+596,Basic,14,18-06-22,28-06-23,Smart TV
+597,Basic,13,27-06-22,28-06-23,Laptop
+598,Standard,12,05/07/22,29-06-23,Tablet
+599,Premium,15,06/07/22,27-06-23,Smart TV
+600,Basic,14,16-06-22,29-06-23,Smart TV
+601,Basic,14,05/06/22,30-06-23,Smart TV
+602,Premium,14,05/06/22,29-06-23,Smartphone
+603,Standard,15,06/06/22,27-06-23,Tablet
+604,Standard,15,07/06/22,28-06-23,Smartphone
+605,Basic,15,10/06/22,29-06-23,Tablet
+606,Premium,14,13-06-22,29-06-23,Tablet
+607,Standard,14,14-06-22,27-06-23,Smart TV
+608,Basic,12,22-06-22,28-06-23,Smart TV
+609,Standard,14,03/07/22,29-06-23,Smartphone
+610,Premium,13,05/07/22,29-06-23,Tablet
+611,Basic,15,11/07/22,28-06-23,Smartphone
+612,Premium,11,17-07-22,27-06-23,Smart TV
+613,Standard,12,27-07-22,28-06-23,Laptop
+614,Basic,15,14-08-22,28-06-23,Smartphone
+615,Standard,13,15-08-22,27-06-23,Smart TV
+616,Premium,14,02/09/22,27-06-23,Laptop
+617,Basic,11,05/09/22,28-06-23,Smartphone
+618,Standard,10,06/09/22,28-06-23,Smart TV
+619,Premium,11,06/09/22,29-06-23,Smartphone
+620,Basic,11,05/09/22,27-06-23,Smartphone
+621,Premium,14,06/09/22,29-06-23,Smart TV
+622,Basic,12,29-08-22,28-06-23,Smartphone
+623,Standard,13,30-08-22,28-06-23,Smart TV
+624,Standard,10,02/09/22,30-06-23,Smartphone
+625,Basic,15,20-09-22,28-06-23,Tablet
+626,Premium,10,23-09-22,30-06-23,Laptop
+627,Basic,11,29-09-22,29-06-23,Smart TV
+628,Standard,10,09/10/22,01/07/23,Smartphone
+629,Premium,11,12/10/22,29-06-23,Tablet
+630,Basic,15,06/10/22,30-06-23,Smart TV
+631,Premium,14,21-09-22,28-06-23,Smartphone
+632,Basic,13,23-09-22,01/07/23,Smartphone
+633,Standard,12,28-09-22,29-06-23,Smartphone
+634,Standard,12,29-09-22,29-06-23,Smart TV
+635,Basic,13,03/10/22,27-06-23,Laptop
+636,Premium,10,28-10-22,01/07/23,Smart TV
+637,Basic,12,14-11-22,29-06-23,Tablet
+638,Standard,11,16-11-22,01/07/23,Tablet
+639,Premium,10,17-11-22,28-06-23,Laptop
+640,Basic,13,20-11-22,30-06-23,Laptop
+641,Premium,12,21-11-22,29-06-23,Tablet
+642,Basic,11,19-11-22,01/07/23,Laptop
+643,Standard,11,28-10-22,27-06-23,Smartphone
+644,Standard,15,27-10-22,29-06-23,Laptop
+645,Basic,13,27-10-22,29-06-23,Laptop
+646,Premium,10,27-10-22,30-06-23,Laptop
+647,Basic,15,25-10-22,28-06-23,Smart TV
+648,Standard,10,17-10-22,28-06-23,Smartphone
+649,Premium,14,20-08-22,29-06-23,Smartphone
+650,Basic,15,16-08-22,29-06-23,Smart TV
+651,Premium,13,15-08-22,29-06-23,Tablet
+652,Basic,14,15-08-22,29-06-23,Smartphone
+653,Standard,11,29-07-22,29-06-23,Smartphone
+654,Standard,12,17-07-22,28-06-23,Smartphone
+655,Basic,11,26-07-22,29-06-23,Tablet
+656,Premium,14,31-07-22,29-06-23,Laptop
+657,Basic,14,03/08/22,29-06-23,Smart TV
+658,Standard,13,04/08/22,29-06-23,Smart TV
+659,Premium,13,03/08/22,29-06-23,Laptop
+660,Basic,12,27-06-22,29-06-23,Smart TV
+661,Premium,14,27-06-22,28-06-23,Laptop
+662,Basic,15,15-06-22,29-06-23,Tablet
+663,Standard,11,13-06-22,29-06-23,Tablet
+664,Standard,11,12/06/22,30-06-23,Smart TV
+665,Basic,10,18-06-22,28-06-23,Smartphone
+666,Premium,15,26-06-22,29-06-23,Tablet
+667,Basic,11,30-06-22,30-06-23,Smartphone
+668,Standard,13,03/07/22,30-06-23,Smart TV
+669,Premium,13,19-06-22,28-06-23,Tablet
+670,Basic,10,08/06/22,29-06-23,Smart TV
+671,Basic,10,08/06/22,30-06-23,Tablet
+672,Basic,14,09/06/22,30-06-23,Tablet
+673,Standard,15,09/06/22,27-06-23,Smartphone
+674,Premium,13,10/06/22,28-06-23,Laptop
+675,Basic,11,11/06/22,29-06-23,Tablet
+676,Basic,11,13-06-22,29-06-23,Smartphone
+677,Premium,13,17-06-22,28-06-23,Smart TV
+678,Standard,15,27-06-22,28-06-23,Smart TV
+679,Standard,11,05/07/22,29-06-23,Laptop
+680,Basic,15,07/07/22,29-06-23,Laptop
+681,Premium,11,16-07-22,28-06-23,Laptop
+682,Standard,11,23-07-22,27-06-23,Tablet
+683,Basic,13,03/08/22,29-06-23,Smartphone
+684,Standard,10,11/08/22,29-06-23,Smartphone
+685,Premium,12,15-08-22,30-06-23,Smartphone
+686,Basic,14,18-08-22,28-06-23,Tablet
+687,Premium,13,26-08-22,29-06-23,Tablet
+688,Standard,10,03/09/22,28-06-23,Smartphone
+689,Basic,15,04/09/22,29-06-23,Smart TV
+690,Standard,15,05/09/22,30-06-23,Laptop
+691,Premium,11,01/09/22,29-06-23,Laptop
+692,Basic,15,31-08-22,30-06-23,Tablet
+693,Standard,14,01/09/22,29-06-23,Tablet
+694,Premium,14,17-09-22,01/07/23,Smart TV
+695,Basic,13,21-09-22,28-06-23,Laptop
+696,Premium,15,29-09-22,01/07/23,Tablet
+697,Basic,12,06/10/22,29-06-23,Smart TV
+698,Standard,10,12/10/22,02/07/23,Laptop
+699,Standard,13,07/10/22,30-06-23,Smartphone
+700,Basic,12,04/10/22,30-06-23,Laptop
+701,Premium,11,24-09-22,28-06-23,Smart TV
+702,Basic,14,25-09-22,01/07/23,Smartphone
+703,Standard,14,27-09-22,30-06-23,Laptop
+704,Premium,13,30-09-22,01/07/23,Tablet
+705,Basic,13,04/10/22,28-06-23,Laptop
+706,Premium,12,24-10-22,01/07/23,Smartphone
+707,Basic,12,28-10-22,30-06-23,Smart TV
+708,Standard,13,02/11/22,01/07/23,Laptop
+709,Standard,12,07/11/22,28-06-23,Smart TV
+710,Basic,10,10/11/22,30-06-23,Smart TV
+711,Premium,14,15-11-22,29-06-23,Laptop
+712,Basic,13,08/11/22,01/07/23,Tablet
+713,Standard,10,01/11/22,27-06-23,Laptop
+714,Premium,15,30-10-22,29-06-23,Tablet
+715,Basic,12,28-10-22,29-06-23,Laptop
+716,Premium,10,26-10-22,30-06-23,Laptop
+717,Basic,15,18-10-22,29-06-23,Tablet
+718,Standard,14,30-09-22,30-06-23,Tablet
+719,Standard,10,03/09/22,29-06-23,Tablet
+720,Basic,10,23-08-22,29-06-23,Tablet
+721,Premium,10,16-08-22,29-06-23,Tablet
+722,Basic,13,11/08/22,30-06-23,Smartphone
+723,Standard,10,01/08/22,30-06-23,Smartphone
+724,Premium,14,01/08/22,29-06-23,Laptop
+725,Basic,12,01/08/22,29-06-23,Tablet
+726,Premium,14,02/08/22,30-06-23,Laptop
+727,Basic,11,04/08/22,29-06-23,Laptop
+728,Standard,14,04/08/22,29-06-23,Laptop
+729,Standard,15,07/07/22,30-06-23,Smartphone
+730,Basic,12,27-06-22,30-06-23,Smartphone
+731,Premium,13,19-06-22,29-06-23,Tablet
+732,Basic,12,19-06-22,29-06-23,Tablet
+733,Standard,10,18-06-22,29-06-23,Laptop
+734,Premium,14,19-06-22,30-06-23,Tablet
+735,Basic,14,24-06-22,28-06-23,Laptop
+736,Premium,11,30-06-22,30-06-23,Smartphone
+737,Basic,15,02/07/22,30-06-23,Tablet
+738,Standard,14,26-06-22,01/07/23,Smartphone
+739,Standard,13,21-06-22,28-06-23,Smartphone
+740,Basic,14,16-06-22,29-06-23,Tablet
+741,Premium,14,09/06/22,30-06-23,Smart TV
+742,Basic,13,10/06/22,30-06-23,Smartphone
+743,Standard,15,10/06/22,28-06-23,Laptop
+744,Premium,13,11/06/22,29-06-23,Tablet
+745,Basic,11,12/06/22,30-06-23,Laptop
+746,Basic,15,15-06-22,30-06-23,Smartphone
+747,Basic,11,25-06-22,29-06-23,Smart TV
+748,Standard,13,30-06-22,28-06-23,Smart TV
+749,Premium,12,06/07/22,30-06-23,Smart TV
+750,Basic,13,09/07/22,29-06-23,Smart TV
+751,Basic,14,18-07-22,29-06-23,Laptop
+752,Premium,10,24-07-22,28-06-23,Smartphone
+753,Standard,12,27-07-22,30-06-23,Smartphone
+754,Standard,11,10/08/22,29-06-23,Laptop
+755,Basic,13,16-08-22,30-06-23,Tablet
+756,Premium,14,23-08-22,29-06-23,Smartphone
+757,Standard,11,03/09/22,30-06-23,Laptop
+758,Basic,12,04/09/22,29-06-23,Laptop
+759,Standard,14,05/09/22,29-06-23,Smart TV
+760,Premium,13,04/09/22,01/07/23,Smartphone
+761,Basic,11,31-08-22,29-06-23,Smart TV
+762,Premium,10,01/09/22,02/07/23,Laptop
+763,Standard,10,15-09-22,29-06-23,Laptop
+764,Basic,15,18-09-22,03/07/23,Smart TV
+765,Standard,11,28-09-22,29-06-23,Smart TV
+766,Premium,13,30-09-22,01/07/23,Smartphone
+767,Basic,15,07/10/22,29-06-23,Laptop
+768,Standard,10,08/10/22,02/07/23,Laptop
+769,Premium,14,08/10/22,30-06-23,Smart TV
+770,Basic,11,03/10/22,01/07/23,Laptop
+771,Premium,14,04/10/22,28-06-23,Tablet
+772,Basic,12,02/10/22,01/07/23,Laptop
+773,Standard,13,01/10/22,30-06-23,Smart TV
+774,Standard,15,03/10/22,02/07/23,Smartphone
+775,Basic,11,20-10-22,28-06-23,Tablet
+776,Premium,11,21-10-22,01/07/23,Laptop
+777,Basic,11,28-10-22,30-06-23,Smartphone
+778,Standard,13,03/11/22,01/07/23,Tablet
+779,Premium,10,07/11/22,28-06-23,Smart TV
+780,Basic,15,12/11/22,30-06-23,Laptop
+781,Premium,14,13-11-22,29-06-23,Smartphone
+782,Basic,13,02/11/22,01/07/23,Laptop
+783,Standard,13,01/11/22,29-06-23,Laptop
+784,Standard,14,31-10-22,30-06-23,Laptop
+785,Basic,12,28-10-22,29-06-23,Laptop
+786,Premium,13,24-10-22,30-06-23,Smart TV
+787,Basic,12,03/10/22,29-06-23,Laptop
+788,Standard,12,13-09-22,30-06-23,Tablet
+789,Premium,11,02/09/22,30-06-23,Smartphone
+790,Basic,14,30-08-22,30-06-23,Smartphone
+791,Premium,15,25-08-22,30-06-23,Smartphone
+792,Basic,12,11/08/22,30-06-23,Smart TV
+793,Standard,11,05/08/22,30-06-23,Smartphone
+794,Standard,12,02/08/22,30-06-23,Smart TV
+795,Basic,11,03/08/22,01/07/23,Smartphone
+796,Premium,12,04/08/22,01/07/23,Smart TV
+797,Basic,10,05/08/22,30-06-23,Tablet
+798,Standard,15,12/07/22,30-06-23,Laptop
+799,Premium,10,02/07/22,30-06-23,Tablet
+800,Basic,12,26-06-22,30-06-23,Smartphone
+801,Premium,10,22-06-22,29-06-23,Smartphone
+802,Basic,13,22-06-22,30-06-23,Smartphone
+803,Standard,14,19-06-22,01/07/23,Smart TV
+804,Standard,14,22-06-22,02/07/23,Smartphone
+805,Basic,15,27-06-22,28-06-23,Laptop
+806,Premium,15,01/07/22,30-06-23,Laptop
+807,Basic,11,28-06-22,30-06-23,Tablet
+808,Standard,13,25-06-22,01/07/23,Smart TV
+809,Premium,10,22-06-22,28-06-23,Smartphone
+810,Basic,13,09/06/22,29-06-23,Smartphone
+811,Premium,13,10/06/22,30-06-23,Laptop
+812,Basic,15,11/06/22,01/07/23,Laptop
+813,Standard,10,11/06/22,28-06-23,Smartphone
+814,Standard,10,12/06/22,29-06-23,Smartphone
+815,Basic,15,13-06-22,30-06-23,Smartphone
+816,Premium,15,18-06-22,30-06-23,Smart TV
+817,Basic,15,29-06-22,30-06-23,Tablet
+818,Standard,13,30-06-22,28-06-23,Tablet
+819,Premium,14,01/07/22,01/07/23,Laptop
+820,Basic,11,07/07/22,30-06-23,Tablet
+821,Basic,12,13-07-22,29-06-23,Laptop
+822,Basic,11,24-07-22,29-06-23,Laptop
+823,Standard,15,29-07-22,30-06-23,Smartphone
+824,Premium,13,31-07-22,30-06-23,Smartphone
+825,Basic,12,09/08/22,30-06-23,Laptop
+826,Basic,11,18-08-22,01/07/23,Smart TV
+827,Premium,15,20-08-22,30-06-23,Smartphone
+828,Standard,15,30-08-22,30-06-23,Smart TV
+829,Standard,10,01/09/22,29-06-23,Tablet
+830,Basic,13,02/09/22,03/07/23,Smartphone
+831,Premium,10,02/09/22,29-06-23,Smartphone
+832,Standard,14,15-09-22,02/07/23,Tablet
+833,Basic,13,17-09-22,29-06-23,Smartphone
+834,Standard,14,26-09-22,03/07/23,Smart TV
+835,Premium,12,27-09-22,29-06-23,Laptop
+836,Basic,15,04/10/22,01/07/23,Laptop
+837,Premium,12,06/10/22,29-06-23,Smart TV
+838,Standard,11,07/10/22,02/07/23,Smartphone
+839,Basic,13,06/10/22,30-06-23,Laptop
+840,Standard,15,07/10/22,03/07/23,Smartphone
+841,Premium,13,06/10/22,29-06-23,Smartphone
+842,Basic,14,06/10/22,02/07/23,Laptop
+843,Standard,13,04/10/22,01/07/23,Smartphone
+844,Premium,10,14-10-22,02/07/23,Smart TV
+845,Basic,12,19-10-22,29-06-23,Smartphone
+846,Premium,12,21-10-22,01/07/23,Laptop
+847,Basic,11,28-10-22,30-06-23,Smart TV
+848,Standard,11,01/11/22,02/07/23,Tablet
+849,Standard,10,12/11/22,29-06-23,Smart TV
+850,Basic,13,13-11-22,30-06-23,Smart TV
+851,Premium,15,09/11/22,30-06-23,Laptop
+852,Basic,12,08/11/22,01/07/23,Laptop
+853,Standard,14,06/11/22,30-06-23,Tablet
+854,Premium,10,07/11/22,30-06-23,Smart TV
+855,Basic,12,02/11/22,01/07/23,Laptop
+856,Premium,10,06/10/22,30-06-23,Smart TV
+857,Basic,15,16-09-22,30-06-23,Smartphone
+858,Standard,14,10/09/22,30-06-23,Laptop
+859,Standard,12,04/09/22,30-06-23,Tablet
+860,Basic,13,26-08-22,01/07/23,Smart TV
+861,Premium,14,14-08-22,01/07/23,Smart TV
+862,Basic,14,12/08/22,01/07/23,Smartphone
+863,Standard,12,10/08/22,30-06-23,Laptop
+864,Premium,11,10/08/22,01/07/23,Tablet
+865,Basic,15,04/08/22,01/07/23,Smartphone
+866,Premium,10,05/08/22,01/07/23,Smart TV
+867,Basic,13,17-07-22,30-06-23,Tablet
+868,Standard,12,16-07-22,01/07/23,Tablet
+869,Standard,15,13-07-22,01/07/23,Tablet
+870,Basic,13,03/07/22,02/07/23,Laptop
+871,Premium,11,24-06-22,29-06-23,Tablet
+872,Basic,14,21-06-22,01/07/23,Laptop
+873,Standard,10,22-06-22,01/07/23,Smart TV
+874,Premium,10,23-06-22,02/07/23,Smart TV
+875,Basic,14,26-06-22,29-06-23,Smart TV
+876,Premium,11,27-06-22,30-06-23,Tablet
+877,Basic,13,28-06-22,01/07/23,Smart TV
+878,Standard,13,28-06-22,02/07/23,Smartphone
+879,Standard,12,18-06-22,29-06-23,Tablet
+880,Basic,11,11/06/22,30-06-23,Smart TV
+881,Premium,11,11/06/22,01/07/23,Smartphone
+882,Basic,13,12/06/22,01/07/23,Smart TV
+883,Standard,15,13-06-22,29-06-23,Tablet
+884,Premium,11,13-06-22,29-06-23,Tablet
+885,Basic,11,18-06-22,02/07/23,Tablet
+886,Premium,15,23-06-22,30-06-23,Smart TV
+887,Basic,12,26-06-22,30-06-23,Laptop
+888,Standard,13,29-06-22,29-06-23,Laptop
+889,Standard,10,02/07/22,01/07/23,Smartphone
+890,Basic,10,06/07/22,30-06-23,Smart TV
+891,Premium,14,18-07-22,30-06-23,Smart TV
+892,Basic,15,29-07-22,30-06-23,Tablet
+893,Standard,13,30-07-22,01/07/23,Smart TV
+894,Premium,13,03/08/22,01/07/23,Smart TV
+895,Basic,10,15-08-22,30-06-23,Smartphone
+896,Basic,10,20-08-22,01/07/23,Smartphone
+897,Basic,14,21-08-22,30-06-23,Laptop
+898,Standard,11,30-08-22,02/07/23,Tablet
+899,Premium,15,01/09/22,29-06-23,Laptop
+900,Basic,14,02/09/22,03/07/23,Smartphone
+901,Basic,12,04/09/22,30-06-23,Smartphone
+902,Premium,12,10/09/22,02/07/23,Tablet
+903,Standard,11,25-09-22,29-06-23,Laptop
+904,Standard,12,27-09-22,03/07/23,Tablet
+905,Basic,13,01/10/22,30-06-23,Laptop
+906,Premium,13,06/10/22,02/07/23,Smart TV
+907,Standard,15,07/10/22,30-06-23,Laptop
+908,Basic,13,08/10/22,03/07/23,Smart TV
+909,Standard,14,08/10/22,01/07/23,Tablet
+910,Premium,10,08/10/22,03/07/23,Smart TV
+911,Basic,13,08/10/22,29-06-23,Smart TV
+912,Premium,15,08/10/22,02/07/23,Tablet
+913,Standard,15,10/10/22,01/07/23,Laptop
+914,Basic,12,19-10-22,02/07/23,Smart TV
+915,Standard,15,20-10-22,29-06-23,Laptop
+916,Premium,12,26-10-22,01/07/23,Smartphone
+917,Basic,14,29-10-22,30-06-23,Tablet
+918,Standard,10,31-10-22,02/07/23,Smart TV
+919,Premium,15,11/11/22,29-06-23,Smartphone
+920,Basic,14,09/11/22,01/07/23,Tablet
+921,Premium,14,09/11/22,01/07/23,Smart TV
+922,Basic,13,07/11/22,01/07/23,Tablet
+923,Standard,13,08/11/22,30-06-23,Tablet
+924,Standard,14,05/11/22,01/07/23,Smart TV
+925,Basic,10,25-10-22,01/07/23,Laptop
+926,Premium,13,23-10-22,02/07/23,Laptop
+927,Basic,11,20-10-22,02/07/23,Laptop
+928,Standard,11,14-10-22,01/07/23,Smartphone
+929,Premium,13,29-08-22,30-06-23,Smart TV
+930,Basic,10,18-08-22,01/07/23,Laptop
+931,Premium,13,13-08-22,02/07/23,Laptop
+932,Basic,11,11/08/22,02/07/23,Smart TV
+933,Standard,10,11/08/22,01/07/23,Laptop
+934,Standard,11,06/08/22,01/07/23,Smartphone
+935,Basic,10,07/08/22,02/07/23,Smartphone
+936,Premium,15,18-07-22,02/07/23,Tablet
+937,Basic,10,17-07-22,30-06-23,Smartphone
+938,Standard,14,15-07-22,02/07/23,Smart TV
+939,Premium,10,14-07-22,02/07/23,Tablet
+940,Basic,12,26-06-22,03/07/23,Smart TV
+941,Premium,10,26-06-22,29-06-23,Smart TV
+942,Basic,12,22-06-22,01/07/23,Laptop
+943,Standard,15,23-06-22,01/07/23,Smart TV
+944,Standard,10,24-06-22,02/07/23,Tablet
+945,Basic,13,26-06-22,29-06-23,Laptop
+946,Premium,14,28-06-22,01/07/23,Laptop
+947,Basic,10,29-06-22,02/07/23,Tablet
+948,Standard,12,26-06-22,02/07/23,Laptop
+949,Premium,14,26-06-22,30-06-23,Tablet
+950,Basic,10,20-06-22,30-06-23,Tablet
+951,Premium,12,18-06-22,03/07/23,Smartphone
+952,Basic,10,16-06-22,01/07/23,Tablet
+953,Standard,10,16-06-22,30-06-23,Laptop
+954,Standard,13,17-06-22,30-06-23,Smartphone
+955,Basic,15,20-06-22,02/07/23,Laptop
+956,Premium,10,24-06-22,01/07/23,Smart TV
+957,Basic,14,27-06-22,01/07/23,Tablet
+958,Standard,10,02/07/22,01/07/23,Laptop
+959,Premium,14,04/07/22,02/07/23,Laptop
+960,Basic,15,15-07-22,30-06-23,Tablet
+961,Premium,15,23-07-22,01/07/23,Laptop
+962,Basic,12,29-07-22,01/07/23,Laptop
+963,Standard,13,01/08/22,01/07/23,Tablet
+964,Standard,13,12/08/22,03/07/23,Smart TV
+965,Basic,10,14-08-22,30-06-23,Laptop
+966,Premium,12,16-08-22,04/07/23,Laptop
+967,Basic,10,26-08-22,30-06-23,Smartphone
+968,Standard,13,31-08-22,03/07/23,Tablet
+969,Premium,12,02/09/22,30-06-23,Smart TV
+970,Basic,15,03/09/22,03/07/23,Tablet
+971,Basic,10,05/09/22,01/07/23,Tablet
+972,Basic,14,10/09/22,02/07/23,Laptop
+973,Standard,12,17-09-22,01/07/23,Smartphone
+974,Premium,13,28-09-22,03/07/23,Smartphone
+975,Basic,12,02/10/22,30-06-23,Smart TV
+976,Basic,15,05/10/22,03/07/23,Laptop
+977,Premium,11,07/10/22,30-06-23,Laptop
+978,Standard,13,08/10/22,03/07/23,Smart TV
+979,Standard,15,08/10/22,01/07/23,Smartphone
+980,Basic,11,09/10/22,03/07/23,Smart TV
+981,Premium,10,09/10/22,30-06-23,Smart TV
+982,Standard,12,10/10/22,02/07/23,Smart TV
+983,Basic,11,14-10-22,01/07/23,Smartphone
+984,Standard,15,16-10-22,03/07/23,Smart TV
+985,Premium,11,21-10-22,29-06-23,Smart TV
+986,Basic,15,25-10-22,01/07/23,Laptop
+987,Premium,11,30-10-22,01/07/23,Tablet
+988,Standard,12,31-10-22,02/07/23,Smartphone
+989,Basic,12,08/11/22,01/07/23,Smartphone
+990,Standard,15,09/11/22,01/07/23,Smartphone
+991,Premium,11,07/11/22,01/07/23,Smart TV
+992,Basic,13,08/11/22,03/07/23,Smartphone
+993,Standard,14,08/11/22,03/07/23,Laptop
+994,Premium,11,31-10-22,02/07/23,Tablet
+995,Basic,14,28-10-22,01/07/23,Tablet
+996,Premium,15,25-10-22,02/07/23,Tablet
+997,Basic,14,18-10-22,02/07/23,Tablet
+998,Standard,15,25-09-22,02/07/23,Laptop
+999,Standard,10,26-08-22,01/07/23,Tablet
+1000,Basic,10,20-08-22,02/07/23,Smartphone
+1001,Premium,12,12/08/22,03/07/23,Laptop
+1002,Basic,13,12/08/22,03/07/23,Tablet
+1003,Standard,13,11/08/22,01/07/23,Smart TV
+1004,Premium,14,11/08/22,02/07/23,Smart TV
+1005,Basic,12,10/08/22,02/07/23,Laptop
+1006,Premium,10,31-07-22,03/07/23,Smart TV
+1007,Basic,12,17-07-22,30-06-23,Smart TV
+1008,Standard,10,15-07-22,02/07/23,Smartphone
+1009,Standard,14,05/07/22,02/07/23,Laptop
+1010,Basic,12,01/07/22,03/07/23,Tablet
+1011,Premium,15,01/07/22,30-06-23,Smart TV
+1012,Basic,15,26-06-22,01/07/23,Smartphone
+1013,Standard,12,27-06-22,02/07/23,Smart TV
+1014,Premium,10,28-06-22,02/07/23,Smartphone
+1015,Basic,12,28-06-22,30-06-23,Laptop
+1016,Premium,10,29-06-22,01/07/23,Tablet
+1017,Basic,10,26-06-22,02/07/23,Smartphone
+1018,Standard,13,26-06-22,02/07/23,Tablet
+1019,Standard,14,24-06-22,30-06-23,Tablet
+1020,Basic,13,21-06-22,01/07/23,Tablet
+1021,Premium,13,22-06-22,03/07/23,Smart TV
+1022,Basic,11,18-06-22,02/07/23,Laptop
+1023,Standard,10,18-06-22,02/07/23,Laptop
+1024,Premium,10,20-06-22,01/07/23,Smartphone
+1025,Basic,13,23-06-22,03/07/23,Smartphone
+1026,Premium,10,26-06-22,01/07/23,Laptop
+1027,Basic,12,02/07/22,01/07/23,Tablet
+1028,Standard,12,04/07/22,01/07/23,Tablet
+1029,Standard,10,07/07/22,02/07/23,Smartphone
+1030,Basic,13,14-07-22,01/07/23,Smartphone
+1031,Premium,13,20-07-22,01/07/23,Smart TV
+1032,Basic,15,23-07-22,02/07/23,Smartphone
+1033,Standard,15,30-07-22,01/07/23,Tablet
+1034,Premium,11,12/08/22,03/07/23,Tablet
+1035,Basic,14,14-08-22,01/07/23,Smartphone
+1036,Premium,14,22-08-22,04/07/23,Smartphone
+1037,Basic,10,29-08-22,30-06-23,Tablet
+1038,Standard,12,02/09/22,03/07/23,Smartphone
+1039,Standard,13,03/09/22,01/07/23,Laptop
+1040,Basic,11,04/09/22,04/07/23,Smartphone
+1041,Premium,13,06/09/22,01/07/23,Laptop
+1042,Basic,14,10/09/22,02/07/23,Tablet
+1043,Standard,12,20-09-22,01/07/23,Tablet
+1044,Premium,11,26-09-22,03/07/23,Tablet
+1045,Basic,13,04/10/22,01/07/23,Tablet
+1046,Basic,13,06/10/22,03/07/23,Laptop
+1047,Basic,13,07/10/22,01/07/23,Laptop
+1048,Standard,15,08/10/22,03/07/23,Tablet
+1049,Premium,14,09/10/22,01/07/23,Smartphone
+1050,Basic,15,10/10/22,03/07/23,Smart TV
+1051,Basic,11,10/10/22,30-06-23,Laptop
+1052,Premium,14,14-10-22,02/07/23,Tablet
+1053,Standard,13,15-10-22,01/07/23,Smartphone
+1054,Standard,12,17-10-22,03/07/23,Tablet
+1055,Basic,11,23-10-22,01/07/23,Smartphone
+1056,Premium,15,27-10-22,02/07/23,Tablet
+1057,Standard,14,29-10-22,02/07/23,Tablet
+1058,Basic,15,05/11/22,02/07/23,Smart TV
+1059,Standard,15,07/11/22,02/07/23,Tablet
+1060,Premium,10,08/11/22,02/07/23,Laptop
+1061,Basic,15,09/11/22,01/07/23,Tablet
+1062,Premium,10,10/11/22,03/07/23,Laptop
+1063,Standard,13,02/11/22,03/07/23,Laptop
+1064,Basic,11,31-10-22,02/07/23,Tablet
+1065,Standard,15,29-10-22,02/07/23,Smart TV
+1066,Premium,12,22-10-22,03/07/23,Laptop
+1067,Basic,14,20-10-22,02/07/23,Tablet
+1068,Standard,15,21-10-22,04/07/23,Tablet
+1069,Premium,13,10/10/22,02/07/23,Smart TV
+1070,Basic,15,06/09/22,03/07/23,Tablet
+1071,Premium,12,06/09/22,03/07/23,Tablet
+1072,Basic,11,13-08-22,03/07/23,Tablet
+1073,Standard,11,13-08-22,01/07/23,Smart TV
+1074,Standard,12,13-08-22,02/07/23,Smartphone
+1075,Basic,11,06/08/22,03/07/23,Smart TV
+1076,Premium,15,06/08/22,03/07/23,Laptop
+1077,Basic,15,22-07-22,30-06-23,Laptop
+1078,Standard,14,17-07-22,02/07/23,Laptop
+1079,Premium,12,09/07/22,02/07/23,Tablet
+1080,Basic,11,04/07/22,03/07/23,Smartphone
+1081,Premium,10,27-06-22,30-06-23,Smartphone
+1082,Basic,13,28-06-22,02/07/23,Tablet
+1083,Standard,12,28-06-22,02/07/23,Laptop
+1084,Standard,10,29-06-22,03/07/23,Smartphone
+1085,Basic,10,29-06-22,30-06-23,Smartphone
+1086,Premium,15,26-06-22,01/07/23,Tablet
+1087,Basic,11,26-06-22,03/07/23,Tablet
+1088,Standard,10,26-06-22,02/07/23,Smartphone
+1089,Premium,14,24-06-22,30-06-23,Tablet
+1090,Basic,14,25-06-22,02/07/23,Smart TV
+1091,Premium,12,20-06-22,03/07/23,Smartphone
+1092,Basic,15,21-06-22,02/07/23,Smart TV
+1093,Standard,12,20-06-22,02/07/23,Smartphone
+1094,Standard,10,22-06-22,02/07/23,Tablet
+1095,Basic,10,24-06-22,03/07/23,Smartphone
+1096,Premium,15,30-06-22,02/07/23,Smartphone
+1097,Basic,13,03/07/22,02/07/23,Smartphone
+1098,Standard,10,04/07/22,02/07/23,Smartphone
+1099,Premium,13,08/07/22,02/07/23,Laptop
+1100,Basic,10,19-07-22,01/07/23,Laptop
+1101,Premium,11,21-07-22,01/07/23,Tablet
+1102,Basic,15,27-07-22,03/07/23,Smartphone
+1103,Standard,14,02/08/22,01/07/23,Tablet
+1104,Standard,10,09/08/22,03/07/23,Smart TV
+1105,Basic,15,21-08-22,01/07/23,Tablet
+1106,Premium,14,29-08-22,04/07/23,Smart TV
+1107,Basic,15,31-08-22,01/07/23,Smart TV
+1108,Standard,10,02/09/22,03/07/23,Laptop
+1109,Premium,13,04/09/22,01/07/23,Smartphone
+1110,Basic,13,05/09/22,04/07/23,Tablet
+1111,Premium,13,10/09/22,01/07/23,Smart TV
+1112,Basic,15,13-09-22,03/07/23,Tablet
+1113,Standard,13,20-09-22,01/07/23,Laptop
+1114,Standard,15,01/10/22,03/07/23,Smart TV
+1115,Basic,14,03/10/22,01/07/23,Laptop
+1116,Premium,11,06/10/22,04/07/23,Laptop
+1117,Basic,15,08/10/22,01/07/23,Tablet
+1118,Standard,13,09/10/22,03/07/23,Smart TV
+1119,Premium,12,10/10/22,02/07/23,Smartphone
+1120,Basic,13,10/10/22,04/07/23,Smartphone
+1121,Basic,15,12/10/22,01/07/23,Smart TV
+1122,Basic,11,14-10-22,02/07/23,Smartphone
+1123,Standard,15,15-10-22,02/07/23,Laptop
+1124,Premium,11,17-10-22,03/07/23,Laptop
+1125,Basic,15,19-10-22,02/07/23,Tablet
+1126,Basic,14,25-10-22,02/07/23,Laptop
+1127,Premium,11,26-10-22,02/07/23,Tablet
+1128,Standard,10,05/11/22,03/07/23,Tablet
+1129,Standard,14,07/11/22,03/07/23,Smartphone
+1130,Basic,14,08/11/22,03/07/23,Smart TV
+1131,Premium,14,09/11/22,02/07/23,Laptop
+1132,Standard,13,06/11/22,03/07/23,Laptop
+1133,Basic,12,04/11/22,03/07/23,Laptop
+1134,Standard,13,03/11/22,05/07/23,Smart TV
+1135,Premium,13,23-10-22,02/07/23,Laptop
+1136,Basic,14,24-10-22,04/07/23,Smartphone
+1137,Premium,13,23-10-22,04/07/23,Smart TV
+1138,Standard,12,21-10-22,04/07/23,Smartphone
+1139,Basic,14,11/09/22,02/07/23,Smartphone
+1140,Standard,10,09/09/22,03/07/23,Smart TV
+1141,Premium,12,22-08-22,03/07/23,Smart TV
+1142,Basic,13,21-08-22,04/07/23,Laptop
+1143,Standard,13,15-08-22,01/07/23,Smart TV
+1144,Premium,14,14-08-22,03/07/23,Tablet
+1145,Basic,11,09/08/22,03/07/23,Smart TV
+1146,Premium,12,04/08/22,04/07/23,Smartphone
+1147,Basic,11,27-07-22,01/07/23,Tablet
+1148,Standard,12,11/07/22,02/07/23,Smartphone
+1149,Standard,13,09/07/22,03/07/23,Tablet
+1150,Basic,15,01/07/22,03/07/23,Tablet
+1151,Premium,12,30-06-22,01/07/23,Laptop
+1152,Basic,11,29-06-22,02/07/23,Smartphone
+1153,Standard,15,29-06-22,03/07/23,Laptop
+1154,Premium,10,30-06-22,03/07/23,Laptop
+1155,Basic,10,30-06-22,30-06-23,Laptop
+1156,Premium,14,26-06-22,02/07/23,Laptop
+1157,Basic,14,27-06-22,03/07/23,Smart TV
+1158,Standard,12,25-06-22,02/07/23,Smart TV
+1159,Standard,15,25-06-22,01/07/23,Laptop
+1160,Basic,12,20-06-22,03/07/23,Smart TV
+1161,Premium,12,21-06-22,03/07/23,Smartphone
+1162,Basic,10,21-06-22,02/07/23,Smart TV
+1163,Standard,13,22-06-22,03/07/23,Smart TV
+1164,Premium,15,23-06-22,02/07/23,Smart TV
+1165,Basic,15,27-06-22,03/07/23,Smartphone
+1166,Premium,13,02/07/22,02/07/23,Tablet
+1167,Basic,12,03/07/22,02/07/23,Tablet
+1168,Standard,13,05/07/22,02/07/23,Laptop
+1169,Standard,13,15-07-22,02/07/23,Smartphone
+1170,Basic,11,20-07-22,02/07/23,Smart TV
+1171,Premium,14,27-07-22,02/07/23,Smartphone
+1172,Basic,11,29-07-22,04/07/23,Smart TV
+1173,Standard,11,03/08/22,01/07/23,Smartphone
+1174,Premium,11,18-08-22,04/07/23,Laptop
+1175,Basic,12,23-08-22,02/07/23,Laptop
+1176,Premium,11,27-08-22,05/07/23,Smart TV
+1177,Basic,15,01/09/22,02/07/23,Tablet
+1178,Standard,12,03/09/22,04/07/23,Smart TV
+1179,Standard,14,05/09/22,02/07/23,Smartphone
+1180,Basic,14,09/09/22,04/07/23,Smart TV
+1181,Premium,15,11/09/22,01/07/23,Laptop
+1182,Basic,14,17-09-22,04/07/23,Smartphone
+1183,Standard,15,19-09-22,02/07/23,Tablet
+1184,Premium,13,28-09-22,03/07/23,Laptop
+1185,Basic,14,06/10/22,02/07/23,Smart TV
+1186,Premium,13,07/10/22,05/07/23,Smart TV
+1187,Basic,14,09/10/22,01/07/23,Smart TV
+1188,Standard,10,10/10/22,03/07/23,Tablet
+1189,Standard,12,11/10/22,03/07/23,Smartphone
+1190,Basic,15,12/10/22,04/07/23,Laptop
+1191,Premium,12,13-10-22,01/07/23,Smartphone
+1192,Basic,11,14-10-22,03/07/23,Laptop
+1193,Standard,14,16-10-22,03/07/23,Tablet
+1194,Premium,15,19-10-22,04/07/23,Smart TV
+1195,Basic,12,23-10-22,02/07/23,Smart TV
+1196,Basic,13,24-10-22,03/07/23,Tablet
+1197,Basic,14,25-10-22,03/07/23,Smart TV
+1198,Standard,10,01/11/22,04/07/23,Laptop
+1199,Premium,11,02/11/22,04/07/23,Smart TV
+1200,Basic,12,04/11/22,06/07/23,Smartphone
+1201,Basic,10,06/11/22,03/07/23,Smart TV
+1202,Premium,15,06/11/22,03/07/23,Smart TV
+1203,Standard,12,04/11/22,04/07/23,Smart TV
+1204,Standard,13,30-10-22,05/07/23,Laptop
+1205,Basic,12,27-10-22,03/07/23,Laptop
+1206,Premium,13,23-10-22,04/07/23,Smart TV
+1207,Standard,12,23-10-22,04/07/23,Smart TV
+1208,Basic,11,24-09-22,04/07/23,Smartphone
+1209,Standard,11,22-09-22,02/07/23,Tablet
+1210,Premium,14,06/09/22,03/07/23,Smart TV
+1211,Basic,10,23-08-22,04/07/23,Laptop
+1212,Premium,13,21-08-22,04/07/23,Tablet
+1213,Standard,10,16-08-22,02/07/23,Smart TV
+1214,Basic,10,09/08/22,03/07/23,Smartphone
+1215,Standard,13,04/08/22,03/07/23,Laptop
+1216,Premium,15,28-07-22,04/07/23,Tablet
+1217,Basic,12,12/07/22,01/07/23,Laptop
+1218,Standard,13,11/07/22,03/07/23,Laptop
+1219,Premium,12,06/07/22,04/07/23,Smartphone
+1220,Basic,13,01/07/22,03/07/23,Smart TV
+1221,Premium,15,02/07/22,01/07/23,Smart TV
+1222,Basic,15,30-06-22,03/07/23,Tablet
+1223,Standard,12,30-06-22,03/07/23,Smartphone
+1224,Standard,15,30-06-22,03/07/23,Smartphone
+1225,Basic,13,30-06-22,01/07/23,Smart TV
+1226,Premium,15,29-06-22,03/07/23,Smartphone
+1227,Basic,15,27-06-22,04/07/23,Tablet
+1228,Standard,15,26-06-22,03/07/23,Tablet
+1229,Premium,12,24-06-22,01/07/23,Smartphone
+1230,Basic,12,25-06-22,03/07/23,Smart TV
+1231,Premium,13,24-06-22,03/07/23,Tablet
+1232,Basic,11,22-06-22,03/07/23,Smartphone
+1233,Standard,13,23-06-22,03/07/23,Smartphone
+1234,Standard,12,25-06-22,03/07/23,Smartphone
+1235,Basic,13,29-06-22,03/07/23,Tablet
+1236,Premium,15,01/07/22,02/07/23,Tablet
+1237,Basic,11,05/07/22,02/07/23,Tablet
+1238,Standard,12,12/07/22,04/07/23,Smartphone
+1239,Premium,11,16-07-22,02/07/23,Laptop
+1240,Basic,11,20-07-22,04/07/23,Laptop
+1241,Premium,14,28-07-22,02/07/23,Laptop
+1242,Basic,14,31-07-22,05/07/23,Tablet
+1243,Standard,14,14-08-22,02/07/23,Smartphone
+1244,Standard,12,16-08-22,04/07/23,Tablet
+1245,Basic,14,18-08-22,03/07/23,Smartphone
+1246,Premium,15,27-08-22,05/07/23,Smartphone
+1247,Basic,13,01/09/22,02/07/23,Smartphone
+1248,Standard,13,03/09/22,05/07/23,Smart TV
+1249,Premium,14,07/09/22,03/07/23,Smart TV
+1250,Basic,10,08/09/22,04/07/23,Smartphone
+1251,Premium,10,14-09-22,03/07/23,Tablet
+1252,Basic,11,15-09-22,05/07/23,Laptop
+1253,Standard,11,27-09-22,02/07/23,Laptop
+1254,Standard,14,30-09-22,04/07/23,Tablet
+1255,Basic,10,02/10/22,04/07/23,Smart TV
+1256,Premium,13,03/10/22,05/07/23,Laptop
+1257,Basic,14,05/10/22,01/07/23,Smart TV
+1258,Standard,15,10/10/22,03/07/23,Tablet
+1259,Premium,13,11/10/22,03/07/23,Laptop
+1260,Basic,11,13-10-22,04/07/23,Laptop
+1261,Premium,11,14-10-22,02/07/23,Smart TV
+1262,Basic,12,16-10-22,03/07/23,Smart TV
+1263,Standard,14,18-10-22,03/07/23,Tablet
+1264,Standard,11,22-10-22,05/07/23,Smart TV
+1265,Basic,10,24-10-22,03/07/23,Tablet
+1266,Premium,15,25-10-22,04/07/23,Laptop
+1267,Basic,14,29-10-22,03/07/23,Tablet
+1268,Standard,13,02/11/22,04/07/23,Laptop
+1269,Premium,12,03/11/22,05/07/23,Smartphone
+1270,Basic,11,04/11/22,06/07/23,Smart TV
+1271,Basic,13,05/11/22,03/07/23,Smartphone
+1272,Basic,13,05/11/22,04/07/23,Smartphone
+1273,Standard,13,31-10-22,04/07/23,Tablet
+1274,Premium,12,27-10-22,05/07/23,Smart TV
+1275,Basic,11,25-10-22,03/07/23,Smartphone
+1276,Basic,12,26-10-22,04/07/23,Laptop
+1277,Premium,11,30-09-22,04/07/23,Smartphone
+1278,Standard,13,27-09-22,05/07/23,Laptop
+1279,Standard,14,12/09/22,03/07/23,Tablet
+1280,Basic,14,25-08-22,04/07/23,Laptop
+1281,Premium,13,25-08-22,04/07/23,Laptop
+1282,Standard,12,22-08-22,05/07/23,Tablet
+1283,Basic,10,17-08-22,02/07/23,Laptop
+1284,Standard,12,09/08/22,03/07/23,Tablet
+1285,Premium,10,06/08/22,04/07/23,Smart TV
+1286,Basic,15,17-07-22,04/07/23,Laptop
+1287,Premium,11,12/07/22,02/07/23,Tablet
+1288,Standard,11,12/07/22,03/07/23,Smartphone
+1289,Basic,12,02/07/22,04/07/23,Tablet
+1290,Standard,13,02/07/22,03/07/23,Laptop
+1291,Premium,10,30-06-22,02/07/23,Laptop
+1292,Basic,12,30-06-22,04/07/23,Smart TV
+1293,Standard,11,01/07/22,04/07/23,Tablet
+1294,Premium,11,30-06-22,04/07/23,Smartphone
+1295,Basic,10,29-06-22,02/07/23,Smartphone
+1296,Premium,12,30-06-22,03/07/23,Smart TV
+1297,Basic,14,29-06-22,04/07/23,Smartphone
+1298,Standard,14,26-06-22,03/07/23,Laptop
+1299,Standard,14,27-06-22,01/07/23,Smart TV
+1300,Basic,11,24-06-22,03/07/23,Laptop
+1301,Premium,14,23-06-22,04/07/23,Smart TV
+1302,Basic,11,23-06-22,03/07/23,Smart TV
+1303,Standard,14,25-06-22,03/07/23,Laptop
+1304,Premium,11,28-06-22,03/07/23,Laptop
+1305,Basic,11,01/07/22,03/07/23,Smartphone
+1306,Premium,15,02/07/22,05/07/23,Laptop
+1307,Basic,10,06/07/22,03/07/23,Tablet
+1308,Standard,15,12/07/22,06/07/23,Tablet
+1309,Standard,13,17-07-22,02/07/23,Tablet
+1310,Basic,15,23-07-22,05/07/23,Laptop
+1311,Premium,15,29-07-22,04/07/23,Tablet
+1312,Basic,11,06/08/22,06/07/23,Laptop
+1313,Standard,10,09/08/22,02/07/23,Smart TV
+1314,Premium,13,14-08-22,05/07/23,Tablet
+1315,Basic,11,20-08-22,03/07/23,Smartphone
+1316,Premium,12,28-08-22,05/07/23,Tablet
+1317,Basic,11,02/09/22,03/07/23,Tablet
+1318,Standard,11,04/09/22,05/07/23,Smartphone
+1319,Standard,14,06/09/22,03/07/23,Smartphone
+1320,Basic,10,14-09-22,05/07/23,Laptop
+1321,Premium,13,15-09-22,04/07/23,Tablet
+1322,Basic,11,16-09-22,06/07/23,Smartphone
+1323,Standard,10,28-09-22,02/07/23,Smartphone
+1324,Premium,10,02/10/22,04/07/23,Smart TV
+1325,Basic,15,03/10/22,04/07/23,Smartphone
+1326,Premium,10,05/10/22,05/07/23,Smartphone
+1327,Basic,12,07/10/22,02/07/23,Laptop
+1328,Standard,12,09/10/22,04/07/23,Tablet
+1329,Standard,11,11/10/22,04/07/23,Laptop
+1330,Basic,14,13-10-22,05/07/23,Smart TV
+1331,Premium,12,15-10-22,02/07/23,Smartphone
+1332,Basic,12,17-10-22,04/07/23,Smartphone
+1333,Standard,14,21-10-22,04/07/23,Tablet
+1334,Premium,12,23-10-22,05/07/23,Smart TV
+1335,Basic,12,24-10-22,06/07/23,Tablet
+1336,Premium,12,28-10-22,04/07/23,Tablet
+1337,Basic,11,31-10-22,04/07/23,Tablet
+1338,Standard,14,03/11/22,04/07/23,Laptop
+1339,Standard,11,04/11/22,05/07/23,Laptop
+1340,Basic,14,05/11/22,06/07/23,Smartphone
+1341,Premium,14,06/11/22,04/07/23,Smart TV
+1342,Basic,12,01/11/22,05/07/23,Laptop
+1343,Standard,10,01/11/22,05/07/23,Tablet
+1344,Premium,11,29-10-22,05/07/23,Smartphone
+1345,Basic,10,27-10-22,03/07/23,Smart TV
+1346,Basic,12,16-10-22,04/07/23,Smart TV
+1347,Basic,13,14-10-22,04/07/23,Smart TV
+1348,Standard,13,14-09-22,05/07/23,Laptop
+1349,Premium,14,03/09/22,03/07/23,Laptop
+1350,Basic,13,27-08-22,04/07/23,Smartphone
+1351,Basic,12,27-08-22,05/07/23,Laptop
+1352,Premium,13,21-08-22,05/07/23,Laptop
+1353,Standard,13,13-08-22,02/07/23,Tablet
+1354,Standard,13,12/08/22,04/07/23,Tablet
+1355,Basic,12,24-07-22,04/07/23,Tablet
+1356,Premium,11,24-07-22,04/07/23,Smartphone
+1357,Standard,11,12/07/22,02/07/23,Smart TV
+1358,Basic,13,09/07/22,04/07/23,Tablet
+1359,Standard,13,09/07/22,05/07/23,Laptop
+1360,Premium,10,10/07/22,04/07/23,Smart TV
+1361,Basic,12,02/07/22,02/07/23,Laptop
+1362,Premium,13,02/07/22,04/07/23,Laptop
+1363,Standard,11,01/07/22,05/07/23,Laptop
+1364,Basic,14,01/07/22,04/07/23,Tablet
+1365,Standard,10,30-06-22,02/07/23,Smartphone
+1366,Premium,15,29-06-22,04/07/23,Laptop
+1367,Basic,11,26-06-22,04/07/23,Smartphone
+1368,Standard,14,27-06-22,03/07/23,Laptop
+1369,Premium,13,25-06-22,03/07/23,Laptop
+1370,Basic,13,23-06-22,04/07/23,Tablet
+1371,Premium,14,24-06-22,04/07/23,Laptop
+1372,Basic,12,25-06-22,05/07/23,Laptop
+1373,Standard,13,26-06-22,04/07/23,Laptop
+1374,Standard,14,27-06-22,07/07/23,Smart TV
+1375,Basic,12,30-06-22,03/07/23,Laptop
+1376,Premium,14,03/07/22,05/07/23,Tablet
+1377,Basic,13,09/07/22,04/07/23,Smart TV
+1378,Standard,14,17-07-22,06/07/23,Smart TV
+1379,Premium,11,22-07-22,03/07/23,Smartphone
+1380,Basic,11,28-07-22,05/07/23,Laptop
+1381,Premium,12,04/08/22,04/07/23,Smart TV
+1382,Basic,13,08/08/22,06/07/23,Smart TV
+1383,Standard,13,13-08-22,04/07/23,Tablet
+1384,Standard,13,17-08-22,05/07/23,Smart TV
+1385,Basic,15,20-08-22,04/07/23,Smartphone
+1386,Premium,14,28-08-22,06/07/23,Smart TV
+1387,Basic,13,29-08-22,04/07/23,Smart TV
+1388,Standard,15,03/09/22,05/07/23,Smartphone
+1389,Premium,13,10/09/22,03/07/23,Smartphone
+1390,Basic,11,13-09-22,05/07/23,Laptop
+1391,Premium,14,15-09-22,04/07/23,Tablet
+1392,Basic,13,25-09-22,06/07/23,Tablet
+1393,Standard,10,01/10/22,03/07/23,Smart TV
+1394,Standard,11,02/10/22,04/07/23,Tablet
+1395,Basic,11,05/10/22,04/07/23,Tablet
+1396,Premium,14,06/10/22,05/07/23,Smart TV
+1397,Basic,14,07/10/22,03/07/23,Laptop
+1398,Standard,12,10/10/22,04/07/23,Smart TV
+1399,Premium,12,12/10/22,04/07/23,Smart TV
+1400,Basic,14,15-10-22,06/07/23,Laptop
+1401,Premium,12,17-10-22,05/07/23,Smart TV
+1402,Basic,13,21-10-22,04/07/23,Laptop
+1403,Standard,14,23-10-22,05/07/23,Laptop
+1404,Standard,14,24-10-22,05/07/23,Tablet
+1405,Basic,11,27-10-22,06/07/23,Smart TV
+1406,Premium,10,30-10-22,07/07/23,Smart TV
+1407,Basic,14,31-10-22,04/07/23,Smart TV
+1408,Standard,14,03/11/22,04/07/23,Smart TV
+1409,Premium,15,05/11/22,06/07/23,Tablet
+1410,Basic,14,06/11/22,06/07/23,Tablet
+1411,Premium,14,01/11/22,04/07/23,Smart TV
+1412,Basic,15,02/11/22,05/07/23,Laptop
+1413,Standard,13,02/11/22,05/07/23,Smartphone
+1414,Standard,15,01/11/22,06/07/23,Tablet
+1415,Basic,11,17-10-22,03/07/23,Smart TV
+1416,Premium,11,18-10-22,05/07/23,Smart TV
+1417,Basic,13,28-09-22,05/07/23,Tablet
+1418,Standard,15,23-09-22,05/07/23,Smart TV
+1419,Premium,15,22-09-22,03/07/23,Smartphone
+1420,Basic,12,31-08-22,04/07/23,Smartphone
+1421,Basic,15,28-08-22,05/07/23,Smart TV
+1422,Basic,15,27-08-22,05/07/23,Laptop
+1423,Standard,12,17-08-22,03/07/23,Smart TV
+1424,Premium,14,09/08/22,04/07/23,Laptop
+1425,Basic,13,24-07-22,05/07/23,Smartphone
+1426,Basic,12,16-07-22,04/07/23,Smart TV
+1427,Premium,10,15-07-22,03/07/23,Tablet
+1428,Standard,12,12/07/22,05/07/23,Smart TV
+1429,Standard,12,12/07/22,06/07/23,Laptop
+1430,Basic,13,09/07/22,05/07/23,Smart TV
+1431,Premium,10,05/07/22,02/07/23,Laptop
+1432,Standard,11,05/07/22,05/07/23,Smartphone
+1433,Basic,10,03/07/22,05/07/23,Tablet
+1434,Standard,13,01/07/22,04/07/23,Laptop
+1435,Premium,12,30-06-22,03/07/23,Smartphone
+1436,Basic,14,27-06-22,04/07/23,Smart TV
+1437,Premium,13,28-06-22,04/07/23,Laptop
+1438,Standard,10,28-06-22,05/07/23,Smartphone
+1439,Basic,14,24-06-22,04/07/23,Laptop
+1440,Standard,11,24-06-22,05/07/23,Smart TV
+1441,Premium,11,25-06-22,04/07/23,Tablet
+1442,Basic,10,26-06-22,06/07/23,Smart TV
+1443,Standard,13,27-06-22,05/07/23,Laptop
+1444,Premium,13,29-06-22,07/07/23,Tablet
+1445,Basic,11,02/07/22,03/07/23,Smartphone
+1446,Premium,13,07/07/22,05/07/23,Tablet
+1447,Basic,11,13-07-22,05/07/23,Tablet
+1448,Standard,14,18-07-22,07/07/23,Laptop
+1449,Standard,14,24-07-22,04/07/23,Laptop
+1450,Basic,12,31-07-22,06/07/23,Smartphone
+1451,Premium,15,01/08/22,05/07/23,Tablet
+1452,Basic,10,08/08/22,06/07/23,Smart TV
+1453,Standard,14,13-08-22,04/07/23,Smartphone
+1454,Premium,11,14-08-22,06/07/23,Smartphone
+1455,Basic,11,23-08-22,04/07/23,Smart TV
+1456,Premium,14,27-08-22,06/07/23,Laptop
+1457,Basic,10,31-08-22,05/07/23,Laptop
+1458,Standard,14,09/09/22,06/07/23,Tablet
+1459,Standard,10,10/09/22,04/07/23,Laptop
+1460,Basic,14,12/09/22,05/07/23,Smart TV
+1461,Premium,11,17-09-22,05/07/23,Smart TV
+1462,Basic,13,21-09-22,06/07/23,Smartphone
+1463,Standard,11,02/10/22,03/07/23,Smart TV
+1464,Premium,10,04/10/22,05/07/23,Laptop
+1465,Basic,14,06/10/22,04/07/23,Laptop
+1466,Premium,13,07/10/22,06/07/23,Smart TV
+1467,Basic,12,08/10/22,04/07/23,Smartphone
+1468,Standard,12,11/10/22,05/07/23,Laptop
+1469,Standard,12,13-10-22,04/07/23,Smart TV
+1470,Basic,10,15-10-22,06/07/23,Tablet
+1471,Premium,10,19-10-22,06/07/23,Smartphone
+1472,Basic,14,21-10-22,06/07/23,Laptop
+1473,Standard,14,23-10-22,05/07/23,Smartphone
+1474,Premium,12,26-10-22,05/07/23,Laptop
+1475,Basic,13,27-10-22,06/07/23,Laptop
+1476,Premium,10,31-10-22,07/07/23,Tablet
+1477,Basic,13,03/11/22,05/07/23,Smart TV
+1478,Standard,15,05/11/22,06/07/23,Smart TV
+1479,Standard,12,06/11/22,06/07/23,Smart TV
+1480,Basic,13,03/11/22,07/07/23,Laptop
+1481,Premium,14,03/11/22,04/07/23,Laptop
+1482,Basic,13,04/11/22,05/07/23,Smartphone
+1483,Standard,14,02/11/22,06/07/23,Smart TV
+1484,Premium,13,27-10-22,06/07/23,Smart TV
+1485,Basic,15,27-10-22,04/07/23,Laptop
+1486,Premium,14,15-10-22,05/07/23,Smartphone
+1487,Basic,13,03/10/22,05/07/23,Smartphone
+1488,Standard,10,25-09-22,05/07/23,Smart TV
+1489,Standard,12,16-09-22,03/07/23,Smart TV
+1490,Basic,12,14-09-22,04/07/23,Smartphone
+1491,Premium,11,11/09/22,05/07/23,Laptop
+1492,Basic,15,09/09/22,05/07/23,Laptop
+1493,Standard,13,12/08/22,03/07/23,Laptop
+1494,Premium,13,04/08/22,06/07/23,Smartphone
+1495,Basic,12,04/08/22,06/07/23,Tablet
+1496,Basic,13,31-07-22,05/07/23,Tablet
+1497,Basic,15,29-07-22,03/07/23,Smart TV
+1498,Standard,15,14-07-22,05/07/23,Smartphone
+1499,Premium,12,13-07-22,06/07/23,Smart TV
+1500,Basic,14,11/07/22,05/07/23,Tablet
+1501,Basic,12,12/07/22,03/07/23,Smart TV
+1502,Premium,14,11/07/22,05/07/23,Laptop
+1503,Standard,10,02/07/22,05/07/23,Laptop
+1504,Standard,11,30-06-22,06/07/23,Smart TV
+1505,Basic,12,30-06-22,05/07/23,Laptop
+1506,Premium,10,29-06-22,05/07/23,Smartphone
+1507,Standard,15,30-06-22,04/07/23,Tablet
+1508,Basic,11,24-06-22,05/07/23,Laptop
+1509,Standard,12,25-06-22,04/07/23,Smartphone
+1510,Premium,11,25-06-22,07/07/23,Smart TV
+1511,Basic,13,26-06-22,04/07/23,Smart TV
+1512,Premium,10,27-06-22,06/07/23,Smart TV
+1513,Standard,12,29-06-22,06/07/23,Smartphone
+1514,Basic,12,01/07/22,07/07/23,Smartphone
+1515,Standard,10,03/07/22,04/07/23,Smart TV
+1516,Premium,15,12/07/22,07/07/23,Laptop
+1517,Basic,11,15-07-22,05/07/23,Smart TV
+1518,Standard,13,19-07-22,07/07/23,Smart TV
+1519,Premium,14,27-07-22,05/07/23,Tablet
+1520,Basic,11,29-07-22,06/07/23,Smartphone
+1521,Premium,11,06/08/22,05/07/23,Tablet
+1522,Basic,10,13-08-22,06/07/23,Laptop
+1523,Standard,13,14-08-22,05/07/23,Smart TV
+1524,Standard,11,20-08-22,07/07/23,Smartphone
+1525,Basic,14,24-08-22,04/07/23,Tablet
+1526,Premium,10,28-08-22,06/07/23,Tablet
+1527,Basic,15,05/09/22,05/07/23,Smart TV
+1528,Standard,12,10/09/22,07/07/23,Smart TV
+1529,Premium,12,11/09/22,04/07/23,Laptop
+1530,Basic,12,14-09-22,06/07/23,Smartphone
+1531,Premium,12,21-09-22,05/07/23,Tablet
+1532,Basic,13,26-09-22,07/07/23,Tablet
+1533,Standard,10,30-09-22,03/07/23,Tablet
+1534,Standard,14,02/10/22,06/07/23,Tablet
+1535,Basic,12,06/10/22,05/07/23,Smart TV
+1536,Premium,15,07/10/22,06/07/23,Laptop
+1537,Basic,15,09/10/22,06/07/23,Tablet
+1538,Standard,10,11/10/22,05/07/23,Smart TV
+1539,Premium,14,12/10/22,05/07/23,Laptop
+1540,Basic,12,16-10-22,06/07/23,Laptop
+1541,Premium,15,17-10-22,07/07/23,Smartphone
+1542,Basic,11,21-10-22,07/07/23,Smart TV
+1543,Standard,15,23-10-22,06/07/23,Laptop
+1544,Standard,14,25-10-22,05/07/23,Tablet
+1545,Basic,13,27-10-22,06/07/23,Laptop
+1546,Premium,13,29-10-22,08/07/23,Smart TV
+1547,Basic,13,01/11/22,05/07/23,Smartphone
+1548,Standard,13,04/11/22,06/07/23,Tablet
+1549,Premium,10,04/11/22,06/07/23,Tablet
+1550,Basic,11,04/11/22,07/07/23,Smart TV
+1551,Premium,14,05/11/22,04/07/23,Tablet
+1552,Basic,12,02/11/22,05/07/23,Tablet
+1553,Standard,12,03/11/22,06/07/23,Tablet
+1554,Standard,14,30-10-22,06/07/23,Laptop
+1555,Basic,13,31-10-22,04/07/23,Smartphone
+1556,Premium,10,14-10-22,05/07/23,Smartphone
+1557,Basic,14,26-09-22,05/07/23,Smart TV
+1558,Standard,15,17-09-22,06/07/23,Smartphone
+1559,Premium,12,16-09-22,03/07/23,Tablet
+1560,Basic,12,12/09/22,07/07/23,Smart TV
+1561,Premium,14,12/09/22,06/07/23,Laptop
+1562,Basic,12,29-08-22,05/07/23,Smartphone
+1563,Standard,15,25-08-22,03/07/23,Laptop
+1564,Standard,11,15-08-22,06/07/23,Tablet
+1565,Basic,10,11/08/22,07/07/23,Smart TV
+1566,Premium,12,10/08/22,06/07/23,Laptop
+1567,Basic,13,26-07-22,04/07/23,Smartphone
+1568,Standard,14,19-07-22,06/07/23,Smart TV
+1569,Premium,10,17-07-22,06/07/23,Tablet
+1570,Basic,13,17-07-22,06/07/23,Tablet
+1571,Basic,10,17-07-22,04/07/23,Tablet
+1572,Basic,13,11/07/22,06/07/23,Laptop
+1573,Standard,15,07/07/22,05/07/23,Smart TV
+1574,Premium,10,07/07/22,06/07/23,Smart TV
+1575,Basic,11,08/07/22,05/07/23,Laptop
+1576,Basic,12,06/07/22,08/07/23,Smartphone
+1577,Premium,10,03/07/22,04/07/23,Tablet
+1578,Standard,11,30-06-22,06/07/23,Laptop
+1579,Standard,11,27-06-22,04/07/23,Smart TV
+1580,Basic,15,26-06-22,08/07/23,Smart TV
+1581,Premium,15,27-06-22,05/07/23,Smart TV
+1582,Standard,14,28-06-22,08/07/23,Smart TV
+1583,Basic,12,30-06-22,06/07/23,Tablet
+1584,Standard,11,02/07/22,07/07/23,Tablet
+1585,Premium,10,05/07/22,05/07/23,Laptop
+1586,Basic,12,11/07/22,07/07/23,Tablet
+1587,Premium,12,18-07-22,06/07/23,Tablet
+1588,Standard,15,25-07-22,07/07/23,Tablet
+1589,Basic,11,28-07-22,06/07/23,Tablet
+1590,Standard,13,05/08/22,08/07/23,Smart TV
+1591,Premium,14,09/08/22,05/07/23,Laptop
+1592,Basic,10,14-08-22,06/07/23,Tablet
+1593,Standard,14,15-08-22,05/07/23,Smartphone
+1594,Premium,15,16-08-22,07/07/23,Tablet
+1595,Basic,12,25-08-22,04/07/23,Tablet
+1596,Premium,13,27-08-22,06/07/23,Laptop
+1597,Basic,13,06/09/22,06/07/23,Smart TV
+1598,Standard,11,08/09/22,07/07/23,Laptop
+1599,Standard,13,13-09-22,04/07/23,Smart TV
+1600,Basic,11,15-09-22,06/07/23,Tablet
+1601,Premium,14,19-09-22,05/07/23,Smartphone
+1602,Basic,15,22-09-22,07/07/23,Smart TV
+1603,Standard,13,24-09-22,06/07/23,Smartphone
+1604,Premium,10,30-09-22,06/07/23,Smartphone
+1605,Basic,11,03/10/22,05/07/23,Laptop
+1606,Premium,15,08/10/22,07/07/23,Smartphone
+1607,Basic,15,09/10/22,07/07/23,Smartphone
+1608,Standard,11,12/10/22,08/07/23,Smart TV
+1609,Standard,14,15-10-22,06/07/23,Smart TV
+1610,Basic,14,17-10-22,06/07/23,Smart TV
+1611,Premium,15,19-10-22,07/07/23,Laptop
+1612,Basic,11,22-10-22,09/07/23,Smartphone
+1613,Standard,15,23-10-22,06/07/23,Smartphone
+1614,Premium,13,27-10-22,07/07/23,Tablet
+1615,Basic,11,28-10-22,06/07/23,Smart TV
+1616,Premium,10,01/11/22,08/07/23,Laptop
+1617,Basic,11,04/11/22,05/07/23,Tablet
+1618,Standard,11,05/11/22,06/07/23,Smart TV
+1619,Standard,14,04/11/22,07/07/23,Laptop
+1620,Basic,11,05/11/22,07/07/23,Smartphone
+1621,Premium,10,04/11/22,05/07/23,Laptop
+1622,Basic,12,05/11/22,05/07/23,Smart TV
+1623,Standard,12,03/11/22,06/07/23,Laptop
+1624,Premium,13,31-10-22,07/07/23,Smartphone
+1625,Basic,10,26-10-22,04/07/23,Smart TV
+1626,Premium,11,16-10-22,06/07/23,Smart TV
+1627,Basic,15,16-10-22,07/07/23,Smartphone
+1628,Standard,13,17-09-22,06/07/23,Laptop
+1629,Standard,14,12/09/22,04/07/23,Smart TV
+1630,Basic,13,13-09-22,07/07/23,Smart TV
+1631,Premium,14,09/09/22,07/07/23,Laptop
+1632,Basic,14,03/09/22,06/07/23,Laptop
+1633,Standard,11,31-08-22,05/07/23,Tablet
+1634,Premium,14,25-08-22,07/07/23,Smart TV
+1635,Basic,12,15-08-22,07/07/23,Tablet
+1636,Premium,10,16-08-22,07/07/23,Smart TV
+1637,Basic,11,28-07-22,05/07/23,Laptop
+1638,Standard,10,28-07-22,06/07/23,Tablet
+1639,Standard,15,22-07-22,06/07/23,Laptop
+1640,Basic,13,19-07-22,06/07/23,Smart TV
+1641,Premium,10,16-07-22,06/07/23,Tablet
+1642,Basic,12,15-07-22,09/07/23,Tablet
+1643,Standard,11,16-07-22,05/07/23,Tablet
+1644,Premium,14,09/07/22,06/07/23,Smartphone
+1645,Basic,12,07/07/22,05/07/23,Laptop
+1646,Basic,15,07/07/22,09/07/23,Tablet
+1647,Basic,11,06/07/22,05/07/23,Laptop
+1648,Standard,15,30-06-22,06/07/23,Smartphone
+1649,Premium,15,27-06-22,05/07/23,Tablet
+1650,Basic,14,28-06-22,08/07/23,Tablet
+1651,Basic,14,28-06-22,06/07/23,Smart TV
+1652,Premium,11,29-06-22,08/07/23,Tablet
+1653,Standard,13,01/07/22,06/07/23,Smartphone
+1654,Standard,14,03/07/22,07/07/23,Tablet
+1655,Basic,15,04/07/22,06/07/23,Tablet
+1656,Premium,10,10/07/22,07/07/23,Smartphone
+1657,Standard,11,23-07-22,06/07/23,Smartphone
+1658,Basic,11,24-07-22,07/07/23,Laptop
+1659,Standard,14,26-07-22,06/07/23,Smartphone
+1660,Premium,12,07/08/22,08/07/23,Tablet
+1661,Basic,13,10/08/22,05/07/23,Laptop
+1662,Premium,13,14-08-22,06/07/23,Smartphone
+1663,Standard,12,16-08-22,06/07/23,Smartphone
+1664,Basic,10,20-08-22,08/07/23,Laptop
+1665,Standard,11,25-08-22,05/07/23,Smartphone
+1666,Premium,11,28-08-22,07/07/23,Laptop
+1667,Basic,11,05/09/22,06/07/23,Tablet
+1668,Standard,13,08/09/22,08/07/23,Tablet
+1669,Premium,10,14-09-22,05/07/23,Tablet
+1670,Basic,13,16-09-22,06/07/23,Tablet
+1671,Premium,13,19-09-22,06/07/23,Smartphone
+1672,Basic,15,23-09-22,07/07/23,Tablet
+1673,Standard,10,29-09-22,07/07/23,Tablet
+1674,Standard,10,02/10/22,06/07/23,Smart TV
+1675,Basic,12,08/10/22,05/07/23,Laptop
+1676,Premium,15,09/10/22,07/07/23,Laptop
+1677,Basic,14,11/10/22,08/07/23,Tablet
+1678,Standard,15,14-10-22,09/07/23,Smart TV
+1679,Premium,14,16-10-22,06/07/23,Tablet
+1680,Basic,13,18-10-22,07/07/23,Laptop
+1681,Premium,15,22-10-22,07/07/23,Smart TV
+1682,Basic,10,23-10-22,09/07/23,Laptop
+1683,Standard,12,26-10-22,06/07/23,Laptop
+1684,Standard,13,27-10-22,07/07/23,Smartphone
+1685,Basic,15,31-10-22,07/07/23,Laptop
+1686,Premium,11,01/11/22,08/07/23,Laptop
+1687,Basic,13,03/11/22,05/07/23,Smartphone
+1688,Standard,14,04/11/22,06/07/23,Tablet
+1689,Premium,13,05/11/22,07/07/23,Tablet
+1690,Basic,13,05/11/22,07/07/23,Laptop
+1691,Premium,13,05/11/22,05/07/23,Smart TV
+1692,Basic,12,05/11/22,06/07/23,Tablet
+1693,Standard,13,03/11/22,07/07/23,Tablet
+1694,Standard,11,27-10-22,07/07/23,Laptop
+1695,Basic,14,24-10-22,04/07/23,Smartphone
+1696,Premium,13,17-10-22,07/07/23,Laptop
+1697,Basic,11,06/10/22,07/07/23,Tablet
+1698,Standard,12,18-09-22,06/07/23,Tablet
+1699,Premium,10,17-09-22,04/07/23,Laptop
+1700,Basic,12,13-09-22,08/07/23,Smart TV
+1701,Premium,15,09/09/22,07/07/23,Smart TV
+1702,Basic,12,02/09/22,07/07/23,Smartphone
+1703,Standard,13,01/09/22,06/07/23,Smart TV
+1704,Standard,10,16-08-22,07/07/23,Laptop
+1705,Basic,14,17-08-22,07/07/23,Tablet
+1706,Premium,15,29-07-22,07/07/23,Laptop
+1707,Basic,13,28-07-22,06/07/23,Smartphone
+1708,Standard,13,25-07-22,07/07/23,Smartphone
+1709,Premium,10,26-07-22,06/07/23,Smartphone
+1710,Basic,11,17-07-22,07/07/23,Smart TV
+1711,Premium,14,16-07-22,06/07/23,Smartphone
+1712,Basic,11,17-07-22,09/07/23,Smartphone
+1713,Standard,12,16-07-22,06/07/23,Tablet
+1714,Standard,14,16-07-22,07/07/23,Tablet
+1715,Basic,14,12/07/22,06/07/23,Laptop
+1716,Premium,11,10/07/22,09/07/23,Smart TV
+1717,Basic,10,08/07/22,07/07/23,Smartphone
+1718,Standard,15,29-06-22,07/07/23,Tablet
+1719,Premium,12,29-06-22,06/07/23,Laptop
+1720,Basic,12,28-06-22,08/07/23,Tablet
+1721,Basic,12,29-06-22,06/07/23,Tablet
+1722,Basic,13,01/07/22,08/07/23,Tablet
+1723,Standard,13,02/07/22,06/07/23,Smart TV
+1724,Premium,12,04/07/22,08/07/23,Laptop
+1725,Basic,10,08/07/22,07/07/23,Smartphone
+1726,Basic,14,20-07-22,09/07/23,Laptop
+1727,Premium,13,23-07-22,06/07/23,Smartphone
+1728,Standard,15,26-07-22,07/07/23,Smartphone
+1729,Standard,11,30-07-22,07/07/23,Laptop
+1730,Basic,10,08/08/22,08/07/23,Smartphone
+1731,Premium,12,13-08-22,05/07/23,Tablet
+1732,Standard,12,14-08-22,07/07/23,Smartphone
+1733,Basic,15,16-08-22,06/07/23,Tablet
+1734,Standard,14,19-08-22,08/07/23,Tablet
+1735,Premium,10,27-08-22,06/07/23,Smartphone
+1736,Basic,15,04/09/22,07/07/23,Smartphone
+1737,Premium,12,05/09/22,06/07/23,Laptop
+1738,Standard,12,13-09-22,08/07/23,Smartphone
+1739,Basic,10,16-09-22,05/07/23,Smartphone
+1740,Standard,15,18-09-22,06/07/23,Laptop
+1741,Premium,12,20-09-22,06/07/23,Smartphone
+1742,Basic,13,29-09-22,07/07/23,Laptop
+1743,Standard,11,30-09-22,08/07/23,Tablet
+1744,Premium,15,04/10/22,10/07/23,Smart TV
+1745,Basic,14,08/10/22,07/07/23,Tablet
+1746,Premium,14,10/10/22,07/07/23,Smart TV
+1747,Basic,12,12/10/22,08/07/23,Laptop
+1748,Standard,15,14-10-22,10/07/23,Smartphone
+1749,Standard,10,16-10-22,07/07/23,Laptop
+1750,Basic,15,21-10-22,07/07/23,Smartphone
+1751,Premium,14,23-10-22,07/07/23,Tablet
+1752,Basic,10,25-10-22,09/07/23,Laptop
+1753,Standard,15,26-10-22,06/07/23,Laptop
+1754,Premium,10,29-10-22,07/07/23,Smart TV
+1755,Basic,15,31-10-22,07/07/23,Laptop
+1756,Premium,13,02/11/22,08/07/23,Tablet
+1757,Basic,13,03/11/22,05/07/23,Laptop
+1758,Standard,13,05/11/22,07/07/23,Laptop
+1759,Standard,10,06/11/22,07/07/23,Smart TV
+1760,Basic,15,06/11/22,07/07/23,Tablet
+1761,Premium,10,07/11/22,05/07/23,Smart TV
+1762,Basic,10,04/11/22,06/07/23,Smartphone
+1763,Standard,14,02/11/22,07/07/23,Smartphone
+1764,Premium,13,27-10-22,07/07/23,Tablet
+1765,Basic,11,18-10-22,05/07/23,Tablet
+1766,Premium,12,07/10/22,08/07/23,Smart TV
+1767,Basic,15,04/10/22,07/07/23,Tablet
+1768,Standard,14,17-09-22,07/07/23,Tablet
+1769,Standard,14,15-09-22,06/07/23,Laptop
+1770,Basic,13,10/09/22,08/07/23,Tablet
+1771,Premium,11,09/09/22,08/07/23,Laptop
+1772,Basic,12,09/09/22,08/07/23,Smart TV
+1773,Standard,12,07/09/22,06/07/23,Tablet
+1774,Premium,15,08/09/22,08/07/23,Tablet
+1775,Basic,15,14-08-22,07/07/23,Tablet
+1776,Premium,15,06/08/22,08/07/23,Smart TV
+1777,Basic,12,06/08/22,06/07/23,Tablet
+1778,Standard,11,29-07-22,09/07/23,Tablet
+1779,Standard,15,28-07-22,06/07/23,Smartphone
+1780,Basic,13,24-07-22,07/07/23,Smart TV
+1781,Premium,15,22-07-22,06/07/23,Laptop
+1782,Basic,13,19-07-22,10/07/23,Laptop
+1783,Standard,13,17-07-22,07/07/23,Smartphone
+1784,Premium,13,16-07-22,07/07/23,Tablet
+1785,Basic,13,13-07-22,07/07/23,Tablet
+1786,Premium,15,14-07-22,09/07/23,Laptop
+1787,Basic,11,07/07/22,07/07/23,Laptop
+1788,Standard,10,06/07/22,09/07/23,Smart TV
+1789,Standard,14,30-06-22,07/07/23,Tablet
+1790,Basic,12,30-06-22,09/07/23,Smart TV
+1791,Premium,14,01/07/22,06/07/23,Laptop
+1792,Basic,15,02/07/22,09/07/23,Tablet
+1793,Standard,14,03/07/22,06/07/23,Smart TV
+1794,Premium,12,06/07/22,08/07/23,Tablet
+1795,Basic,14,07/07/22,07/07/23,Smart TV
+1796,Basic,10,15-07-22,09/07/23,Tablet
+1797,Basic,14,17-07-22,06/07/23,Smart TV
+1798,Standard,10,26-07-22,08/07/23,Smartphone
+1799,Premium,14,05/08/22,07/07/23,Tablet
+1800,Basic,14,12/08/22,09/07/23,Tablet
+1801,Basic,12,14-08-22,06/07/23,Tablet
+1802,Premium,12,15-08-22,07/07/23,Smartphone
+1803,Standard,10,18-08-22,07/07/23,Smart TV
+1804,Standard,12,21-08-22,09/07/23,Laptop
+1805,Basic,10,04/09/22,06/07/23,Smart TV
+1806,Premium,15,05/09/22,07/07/23,Laptop
+1807,Standard,11,08/09/22,07/07/23,Smartphone
+1808,Basic,12,15-09-22,08/07/23,Laptop
+1809,Standard,15,17-09-22,06/07/23,Tablet
+1810,Premium,14,19-09-22,09/07/23,Laptop
+1811,Basic,10,23-09-22,06/07/23,Smart TV
+1812,Premium,11,26-09-22,08/07/23,Smartphone
+1813,Standard,12,30-09-22,08/07/23,Smartphone
+1814,Basic,10,07/10/22,10/07/23,Smartphone
+1815,Standard,13,09/10/22,07/07/23,Tablet
+1816,Premium,14,12/10/22,07/07/23,Laptop
+1817,Basic,12,13-10-22,08/07/23,Smartphone
+1818,Standard,15,14-10-22,10/07/23,Smart TV
+1819,Premium,13,19-10-22,07/07/23,Tablet
+1820,Basic,14,20-10-22,07/07/23,Smart TV
+1821,Premium,12,22-10-22,08/07/23,Smartphone
+1822,Basic,15,24-10-22,09/07/23,Tablet
+1823,Standard,10,28-10-22,06/07/23,Tablet
+1824,Standard,12,30-10-22,08/07/23,Laptop
+1825,Basic,13,01/11/22,08/07/23,Smart TV
+1826,Premium,12,03/11/22,08/07/23,Tablet
+1827,Basic,13,04/11/22,06/07/23,Laptop
+1828,Standard,14,05/11/22,07/07/23,Laptop
+1829,Premium,13,06/11/22,08/07/23,Tablet
+1830,Basic,12,07/11/22,08/07/23,Smartphone
+1831,Premium,14,05/11/22,05/07/23,Laptop
+1832,Basic,11,05/11/22,09/07/23,Smartphone
+1833,Standard,12,06/11/22,08/07/23,Smartphone
+1834,Standard,10,03/11/22,07/07/23,Smart TV
+1835,Basic,11,22-10-22,06/07/23,Tablet
+1836,Premium,12,22-10-22,09/07/23,Smart TV
+1837,Basic,13,15-10-22,09/07/23,Smartphone
+1838,Standard,11,24-09-22,07/07/23,Smartphone
+1839,Premium,15,15-09-22,06/07/23,Smart TV
+1840,Basic,14,15-09-22,08/07/23,Laptop
+1841,Premium,11,12/09/22,08/07/23,Tablet
+1842,Basic,14,12/09/22,09/07/23,Smartphone
+1843,Standard,10,11/09/22,07/07/23,Laptop
+1844,Standard,14,11/09/22,08/07/23,Smart TV
+1845,Basic,12,16-08-22,07/07/23,Smartphone
+1846,Premium,13,12/08/22,08/07/23,Smartphone
+1847,Basic,10,02/08/22,07/07/23,Smartphone
+1848,Standard,11,01/08/22,10/07/23,Laptop
+1849,Premium,11,29-07-22,07/07/23,Smartphone
+1850,Basic,12,28-07-22,08/07/23,Smartphone
+1851,Premium,11,25-07-22,08/07/23,Laptop
+1852,Basic,14,20-07-22,10/07/23,Tablet
+1853,Standard,13,16-07-22,08/07/23,Laptop
+1854,Standard,14,16-07-22,08/07/23,Laptop
+1855,Basic,12,15-07-22,07/07/23,Smartphone
+1856,Premium,15,13-07-22,09/07/23,Smartphone
+1857,Basic,13,06/07/22,07/07/23,Smart TV
+1858,Standard,10,03/07/22,09/07/23,Smart TV
+1859,Premium,15,04/07/22,07/07/23,Laptop
+1860,Basic,10,03/07/22,09/07/23,Laptop
+1861,Premium,15,03/07/22,07/07/23,Laptop
+1862,Basic,13,04/07/22,10/07/23,Tablet
+1863,Standard,11,05/07/22,06/07/23,Smartphone
+1864,Standard,15,07/07/22,08/07/23,Smartphone
+1865,Basic,15,08/07/22,07/07/23,Smartphone
+1866,Premium,12,13-07-22,10/07/23,Laptop
+1867,Basic,11,15-07-22,06/07/23,Tablet
+1868,Standard,14,01/08/22,08/07/23,Tablet
+1869,Premium,13,11/08/22,08/07/23,Smart TV
+1870,Basic,14,13-08-22,09/07/23,Tablet
+1871,Basic,10,15-08-22,06/07/23,Smart TV
+1872,Basic,13,16-08-22,08/07/23,Smartphone
+1873,Standard,14,18-08-22,08/07/23,Smartphone
+1874,Premium,14,25-08-22,09/07/23,Smartphone
+1875,Basic,14,29-08-22,06/07/23,Smart TV
+1876,Basic,11,04/09/22,09/07/23,Tablet
+1877,Premium,11,13-09-22,07/07/23,Smartphone
+1878,Standard,12,14-09-22,08/07/23,Tablet
+1879,Standard,10,17-09-22,06/07/23,Smart TV
+1880,Basic,15,18-09-22,10/07/23,Smart TV
+1881,Premium,15,23-09-22,07/07/23,Tablet
+1882,Standard,11,27-09-22,08/07/23,Smartphone
+1883,Basic,14,04/10/22,08/07/23,Tablet
+1884,Standard,12,09/10/22,11/07/23,Tablet
+1885,Premium,14,10/10/22,07/07/23,Tablet
+1886,Basic,12,11/10/22,08/07/23,Smart TV
+1887,Premium,13,13-10-22,09/07/23,Smart TV
+1888,Standard,12,15-10-22,10/07/23,Laptop
+1889,Basic,13,20-10-22,07/07/23,Laptop
+1890,Standard,15,21-10-22,08/07/23,Laptop
+1891,Premium,11,23-10-22,09/07/23,Tablet
+1892,Basic,15,25-10-22,09/07/23,Smartphone
+1893,Standard,10,27-10-22,07/07/23,Smartphone
+1894,Premium,11,30-10-22,08/07/23,Tablet
+1895,Basic,15,01/11/22,09/07/23,Laptop
+1896,Premium,14,02/11/22,09/07/23,Laptop
+1897,Basic,11,04/11/22,06/07/23,Smartphone
+1898,Standard,13,06/11/22,07/07/23,Tablet
+1899,Standard,14,07/11/22,09/07/23,Smartphone
+1900,Basic,14,06/11/22,08/07/23,Smartphone
+1901,Premium,15,07/11/22,06/07/23,Tablet
+1902,Basic,15,07/11/22,10/07/23,Smart TV
+1903,Standard,12,03/11/22,08/07/23,Smart TV
+1904,Premium,15,03/11/22,08/07/23,Smartphone
+1905,Basic,15,31-10-22,06/07/23,Tablet
+1906,Premium,11,28-10-22,09/07/23,Tablet
+1907,Basic,10,28-09-22,09/07/23,Smartphone
+1908,Standard,15,19-09-22,09/07/23,Smartphone
+1909,Standard,12,16-09-22,08/07/23,Smart TV
+1910,Basic,15,17-09-22,08/07/23,Smartphone
+1911,Premium,12,17-09-22,08/07/23,Smart TV
+1912,Basic,11,15-09-22,09/07/23,Laptop
+1913,Standard,11,14-09-22,08/07/23,Tablet
+1914,Premium,11,14-09-22,08/07/23,Tablet
+1915,Basic,10,13-09-22,08/07/23,Smartphone
+1916,Premium,13,13-08-22,08/07/23,Tablet
+1917,Basic,14,12/08/22,08/07/23,Tablet
+1918,Standard,11,07/08/22,10/07/23,Smartphone
+1919,Standard,11,07/08/22,09/07/23,Smart TV
+1920,Basic,11,04/08/22,08/07/23,Laptop
+1921,Premium,14,24-07-22,08/07/23,Laptop
+1922,Basic,13,18-07-22,10/07/23,Tablet
+1923,Standard,12,17-07-22,08/07/23,Smartphone
+1924,Premium,13,17-07-22,09/07/23,Laptop
+1925,Basic,10,14-07-22,08/07/23,Smart TV
+1926,Premium,11,06/07/22,10/07/23,Tablet
+1927,Basic,13,07/07/22,08/07/23,Smart TV
+1928,Standard,10,07/07/22,11/07/23,Smart TV
+1929,Standard,12,08/07/22,07/07/23,Smartphone
+1930,Basic,13,07/07/22,09/07/23,Smart TV
+1931,Premium,14,08/07/22,07/07/23,Tablet
+1932,Basic,11,09/07/22,11/07/23,Tablet
+1933,Standard,14,09/07/22,07/07/23,Smart TV
+1934,Premium,12,09/07/22,08/07/23,Laptop
+1935,Basic,12,12/07/22,07/07/23,Tablet
+1936,Premium,13,15-07-22,10/07/23,Laptop
+1937,Basic,14,16-07-22,07/07/23,Smart TV
+1938,Standard,10,18-07-22,08/07/23,Smartphone
+1939,Standard,11,13-08-22,09/07/23,Tablet
+1940,Basic,10,14-08-22,10/07/23,Tablet
+1941,Premium,13,16-08-22,07/07/23,Smart TV
+1942,Basic,14,17-08-22,08/07/23,Smart TV
+1943,Standard,14,25-08-22,08/07/23,Smart TV
+1944,Premium,15,28-08-22,09/07/23,Tablet
+1945,Basic,14,29-08-22,07/07/23,Smart TV
+1946,Basic,10,11/09/22,10/07/23,Smart TV
+1947,Basic,12,12/09/22,08/07/23,Smartphone
+1948,Standard,11,16-09-22,09/07/23,Laptop
+1949,Premium,15,17-09-22,09/07/23,Smart TV
+1950,Basic,10,21-09-22,10/07/23,Laptop
+1951,Basic,15,23-09-22,08/07/23,Tablet
+1952,Premium,14,27-09-22,08/07/23,Smartphone
+1953,Standard,12,09/10/22,09/07/23,Smartphone
+1954,Standard,11,10/10/22,11/07/23,Laptop
+1955,Basic,13,11/10/22,08/07/23,Smartphone
+1956,Premium,12,12/10/22,08/07/23,Tablet
+1957,Standard,15,13-10-22,09/07/23,Smartphone
+1958,Basic,12,19-10-22,10/07/23,Tablet
+1959,Standard,14,21-10-22,07/07/23,Smartphone
+1960,Premium,13,23-10-22,08/07/23,Laptop
+1961,Basic,14,24-10-22,10/07/23,Smartphone
+1962,Premium,12,26-10-22,09/07/23,Tablet
+1963,Standard,15,27-10-22,07/07/23,Smart TV
+1964,Basic,15,01/11/22,08/07/23,Smart TV
+1965,Standard,12,02/11/22,09/07/23,Tablet
+1966,Premium,10,04/11/22,09/07/23,Tablet
+1967,Basic,13,05/11/22,06/07/23,Laptop
+1968,Standard,12,06/11/22,09/07/23,Tablet
+1969,Premium,11,07/11/22,09/07/23,Smartphone
+1970,Basic,14,08/11/22,08/07/23,Laptop
+1971,Premium,13,08/11/22,06/07/23,Laptop
+1972,Basic,14,09/11/22,10/07/23,Tablet
+1973,Standard,15,09/11/22,09/07/23,Tablet
+1974,Standard,11,05/11/22,08/07/23,Smartphone
+1975,Basic,11,04/11/22,07/07/23,Tablet
+1976,Premium,13,19-10-22,09/07/23,Tablet
+1977,Basic,12,12/10/22,09/07/23,Smartphone
+1978,Standard,11,03/10/22,09/07/23,Smart TV
+1979,Premium,15,28-09-22,08/07/23,Smartphone
+1980,Basic,15,17-09-22,09/07/23,Laptop
+1981,Premium,13,16-09-22,08/07/23,Smartphone
+1982,Basic,14,15-09-22,09/07/23,Smartphone
+1983,Standard,11,14-09-22,08/07/23,Tablet
+1984,Standard,11,15-09-22,09/07/23,Smartphone
+1985,Basic,11,06/09/22,09/07/23,Tablet
+1986,Premium,15,28-08-22,09/07/23,Smart TV
+1987,Basic,12,07/08/22,08/07/23,Smart TV
+1988,Standard,15,07/08/22,10/07/23,Smartphone
+1989,Premium,12,06/08/22,09/07/23,Tablet
+1990,Basic,15,30-07-22,09/07/23,Smart TV
+1991,Premium,12,30-07-22,08/07/23,Laptop
+1992,Basic,14,30-07-22,10/07/23,Smartphone
+1993,Standard,15,19-07-22,08/07/23,Tablet
+1994,Standard,11,17-07-22,10/07/23,Laptop
+1995,Basic,11,12/07/22,08/07/23,Tablet
+1996,Premium,10,11/07/22,10/07/23,Smart TV
+1997,Basic,14,10/07/22,08/07/23,Smart TV
+1998,Standard,14,10/07/22,11/07/23,Smart TV
+1999,Premium,13,08/07/22,08/07/23,Smart TV
+2000,Basic,12,09/07/22,09/07/23,Smart TV
+2001,Premium,10,09/07/22,08/07/23,Smart TV
+2002,Basic,10,09/07/22,11/07/23,Smartphone
+2003,Standard,11,10/07/22,08/07/23,Tablet
+2004,Standard,12,12/07/22,08/07/23,Laptop
+2005,Basic,10,13-07-22,09/07/23,Laptop
+2006,Premium,13,16-07-22,10/07/23,Laptop
+2007,Basic,10,17-07-22,07/07/23,Smart TV
+2008,Standard,10,26-07-22,09/07/23,Laptop
+2009,Premium,10,31-07-22,09/07/23,Laptop
+2010,Basic,13,03/08/22,10/07/23,Laptop
+2011,Premium,10,15-08-22,07/07/23,Tablet
+2012,Basic,15,18-08-22,10/07/23,Smart TV
+2013,Standard,10,27-08-22,08/07/23,Smart TV
+2014,Standard,12,29-08-22,10/07/23,Smart TV
+2015,Basic,12,05/09/22,07/07/23,Smartphone
+2016,Premium,10,06/09/22,11/07/23,Smart TV
+2017,Basic,10,14-09-22,08/07/23,Laptop
+2018,Standard,10,16-09-22,09/07/23,Laptop
+2019,Premium,10,18-09-22,10/07/23,Laptop
+2020,Basic,12,23-09-22,11/07/23,Tablet
+2021,Basic,12,25-09-22,08/07/23,Laptop
+2022,Basic,10,06/10/22,09/07/23,Laptop
+2023,Standard,11,09/10/22,10/07/23,Tablet
+2024,Premium,13,11/10/22,11/07/23,Laptop
+2025,Basic,13,12/10/22,08/07/23,Laptop
+2026,Basic,15,13-10-22,09/07/23,Smart TV
+2027,Premium,13,17-10-22,10/07/23,Smart TV
+2028,Standard,11,19-10-22,10/07/23,Smartphone
+2029,Standard,10,21-10-22,07/07/23,Smart TV
+2030,Basic,14,23-10-22,09/07/23,Tablet
+2031,Premium,14,25-10-22,10/07/23,Smart TV
+2032,Standard,10,27-10-22,09/07/23,Smart TV
+2033,Basic,13,31-10-22,07/07/23,Smartphone
+2034,Standard,12,02/11/22,09/07/23,Laptop
+2035,Premium,11,04/11/22,10/07/23,Smart TV
+2036,Basic,12,05/11/22,09/07/23,Smartphone
+2037,Premium,13,06/11/22,07/07/23,Smart TV
+2038,Standard,11,07/11/22,10/07/23,Smartphone
+2039,Basic,11,08/11/22,09/07/23,Laptop
+2040,Standard,15,08/11/22,08/07/23,Laptop
+2041,Premium,10,09/11/22,07/07/23,Smartphone
+2042,Basic,10,09/11/22,10/07/23,Smartphone
+2043,Standard,12,05/11/22,09/07/23,Smart TV
+2044,Premium,12,05/11/22,10/07/23,Smart TV
+2045,Basic,15,02/11/22,08/07/23,Laptop
+2046,Premium,12,30-10-22,09/07/23,Smartphone
+2047,Basic,11,30-10-22,09/07/23,Laptop
+2048,Standard,11,24-10-22,09/07/23,Tablet
+2049,Standard,14,08/10/22,08/07/23,Tablet
+2050,Basic,13,04/10/22,09/07/23,Smartphone
+2051,Premium,10,28-09-22,09/07/23,Smartphone
+2052,Basic,11,22-09-22,09/07/23,Smart TV
+2053,Standard,14,19-09-22,09/07/23,Laptop
+2054,Premium,10,13-09-22,09/07/23,Tablet
+2055,Basic,14,05/09/22,09/07/23,Laptop
+2056,Premium,10,20-08-22,09/07/23,Tablet
+2057,Basic,10,10/08/22,08/07/23,Smartphone
+2058,Standard,10,10/08/22,11/07/23,Smartphone
+2059,Standard,14,06/08/22,09/07/23,Laptop
+2060,Basic,12,03/08/22,10/07/23,Smart TV
+2061,Premium,10,01/08/22,09/07/23,Smart TV
+2062,Basic,14,28-07-22,10/07/23,Tablet
+2063,Standard,15,22-07-22,09/07/23,Smartphone
+2064,Premium,11,22-07-22,11/07/23,Tablet
+2065,Basic,12,20-07-22,09/07/23,Tablet
+2066,Premium,15,12/07/22,10/07/23,Laptop
+2067,Basic,10,12/07/22,09/07/23,Laptop
+2068,Standard,14,10/07/22,11/07/23,Laptop
+2069,Standard,12,11/07/22,08/07/23,Smart TV
+2070,Basic,10,11/07/22,09/07/23,Smartphone
+2071,Premium,11,09/07/22,08/07/23,Smartphone
+2072,Basic,15,10/07/22,11/07/23,Laptop
+2073,Standard,11,12/07/22,08/07/23,Tablet
+2074,Premium,14,13-07-22,09/07/23,Smartphone
+2075,Basic,14,15-07-22,09/07/23,Tablet
+2076,Premium,15,16-07-22,11/07/23,Laptop
+2077,Basic,11,19-07-22,08/07/23,Laptop
+2078,Standard,15,23-07-22,10/07/23,Laptop
+2079,Standard,10,28-07-22,09/07/23,Smart TV
+2080,Basic,10,14-08-22,11/07/23,Laptop
+2081,Premium,15,18-08-22,08/07/23,Smart TV
+2082,Basic,12,23-08-22,12/07/23,Tablet
+2083,Standard,12,27-08-22,09/07/23,Tablet
+2084,Premium,13,01/09/22,10/07/23,Smartphone
+2085,Basic,15,02/09/22,09/07/23,Laptop
+2086,Premium,13,04/09/22,12/07/23,Smart TV
+2087,Basic,13,11/09/22,09/07/23,Tablet
+2088,Standard,10,16-09-22,09/07/23,Tablet
+2089,Standard,10,19-09-22,11/07/23,Tablet
+2090,Basic,12,20-09-22,12/07/23,Tablet
+2091,Premium,13,05/10/22,09/07/23,Smartphone
+2092,Basic,10,07/10/22,09/07/23,Laptop
+2093,Standard,10,10/10/22,11/07/23,Smart TV
+2094,Premium,13,12/10/22,11/07/23,Smart TV
+2095,Basic,10,13-10-22,08/07/23,Smart TV
+2096,Basic,15,15-10-22,09/07/23,Tablet
+2097,Basic,10,17-10-22,11/07/23,Tablet
+2098,Standard,15,18-10-22,10/07/23,Tablet
+2099,Premium,11,20-10-22,08/07/23,Laptop
+2100,Basic,14,22-10-22,10/07/23,Smart TV
+2101,Basic,12,25-10-22,11/07/23,Tablet
+2102,Premium,14,27-10-22,09/07/23,Smartphone
+2103,Standard,14,01/11/22,07/07/23,Laptop
+2104,Standard,13,02/11/22,11/07/23,Tablet
+2105,Basic,11,04/11/22,10/07/23,Smartphone
+2106,Premium,10,06/11/22,09/07/23,Smartphone
+2107,Standard,14,07/11/22,07/07/23,Smart TV
+2108,Basic,15,08/11/22,10/07/23,Smartphone
+2109,Standard,12,09/11/22,10/07/23,Tablet
+2110,Premium,14,10/11/22,10/07/23,Smartphone
+2111,Basic,14,09/11/22,09/07/23,Laptop
+2112,Premium,15,09/11/22,10/07/23,Smart TV
+2113,Standard,11,07/11/22,10/07/23,Tablet
+2114,Basic,12,03/11/22,10/07/23,Tablet
+2115,Standard,10,04/11/22,08/07/23,Laptop
+2116,Premium,12,01/11/22,10/07/23,Tablet
+2117,Basic,13,27-10-22,09/07/23,Laptop
+2118,Standard,10,23-10-22,10/07/23,Smart TV
+2119,Premium,14,14-10-22,09/07/23,Laptop
+2120,Basic,14,28-09-22,10/07/23,Smart TV
+2121,Premium,14,25-09-22,09/07/23,Laptop
+2122,Basic,11,23-09-22,10/07/23,Smart TV
+2123,Standard,12,23-09-22,09/07/23,Tablet
+2124,Standard,14,14-09-22,11/07/23,Laptop
+2125,Basic,14,05/09/22,09/07/23,Smartphone
+2126,Premium,12,13-08-22,09/07/23,Smartphone
+2127,Basic,15,12/08/22,09/07/23,Smartphone
+2128,Standard,10,10/08/22,11/07/23,Tablet
+2129,Premium,14,05/08/22,09/07/23,Laptop
+2130,Basic,10,04/08/22,12/07/23,Tablet
+2131,Premium,11,28-07-22,09/07/23,Laptop
+2132,Basic,12,24-07-22,11/07/23,Smart TV
+2133,Standard,11,22-07-22,09/07/23,Laptop
+2134,Standard,13,22-07-22,12/07/23,Smart TV
+2135,Basic,15,19-07-22,09/07/23,Smartphone
+2136,Premium,13,17-07-22,10/07/23,Tablet
+2137,Basic,10,16-07-22,09/07/23,Tablet
+2138,Standard,11,12/07/22,12/07/23,Smartphone
+2139,Premium,14,12/07/22,08/07/23,Smartphone
+2140,Basic,14,13-07-22,10/07/23,Tablet
+2141,Premium,14,13-07-22,09/07/23,Tablet
+2142,Basic,12,13-07-22,11/07/23,Smartphone
+2143,Standard,12,14-07-22,08/07/23,Smartphone
+2144,Standard,14,15-07-22,10/07/23,Smartphone
+2145,Basic,14,16-07-22,09/07/23,Smart TV
+2146,Premium,12,18-07-22,11/07/23,Tablet
+2147,Basic,12,23-07-22,09/07/23,Smartphone
+2148,Standard,12,25-07-22,11/07/23,Tablet
+2149,Premium,14,30-07-22,09/07/23,Smart TV
+2150,Basic,12,06/08/22,11/07/23,Tablet
+2151,Premium,13,14-08-22,08/07/23,Smart TV
+2152,Basic,14,23-08-22,12/07/23,Laptop
+2153,Standard,13,27-08-22,09/07/23,Tablet
+2154,Standard,12,29-08-22,10/07/23,Smart TV
+2155,Basic,12,01/09/22,09/07/23,Smartphone
+2156,Premium,10,07/09/22,13-07-23,Smart TV
+2157,Basic,10,13-09-22,10/07/23,Smart TV
+2158,Standard,12,14-09-22,10/07/23,Smartphone
+2159,Premium,11,17-09-22,12/07/23,Tablet
+2160,Basic,11,23-09-22,12/07/23,Smartphone
+2161,Premium,10,27-09-22,09/07/23,Smartphone
+2162,Basic,10,03/10/22,10/07/23,Tablet
+2163,Standard,13,10/10/22,11/07/23,Smart TV
+2164,Standard,10,12/10/22,11/07/23,Smartphone
+2165,Basic,12,14-10-22,08/07/23,Laptop
+2166,Premium,13,16-10-22,10/07/23,Smartphone
+2167,Basic,11,18-10-22,11/07/23,Laptop
+2168,Standard,14,20-10-22,10/07/23,Smart TV
+2169,Premium,12,22-10-22,08/07/23,Tablet
+2170,Basic,12,25-10-22,10/07/23,Smart TV
+2171,Basic,12,26-10-22,11/07/23,Tablet
+2172,Basic,14,29-10-22,10/07/23,Smart TV
+2173,Standard,13,31-10-22,07/07/23,Smartphone
+2174,Premium,14,04/11/22,11/07/23,Smartphone
+2175,Basic,11,06/11/22,10/07/23,Laptop
+2176,Basic,13,07/11/22,10/07/23,Tablet
+2177,Premium,15,08/11/22,09/07/23,Tablet
+2178,Standard,11,09/11/22,11/07/23,Tablet
+2179,Standard,10,10/11/22,10/07/23,Smart TV
+2180,Basic,14,10/11/22,10/07/23,Smart TV
+2181,Premium,13,10/11/22,09/07/23,Laptop
+2182,Standard,14,09/11/22,10/07/23,Tablet
+2183,Basic,10,09/11/22,10/07/23,Smart TV
+2184,Standard,12,06/11/22,11/07/23,Tablet
+2185,Premium,14,03/11/22,08/07/23,Smart TV
+2186,Basic,15,27-10-22,11/07/23,Smart TV
+2187,Premium,15,28-10-22,10/07/23,Tablet
+2188,Standard,15,18-10-22,10/07/23,Laptop
+2189,Basic,15,04/10/22,09/07/23,Laptop
+2190,Standard,10,29-09-22,10/07/23,Tablet
+2191,Premium,12,29-09-22,10/07/23,Smartphone
+2192,Basic,12,23-09-22,10/07/23,Smart TV
+2193,Standard,12,17-09-22,09/07/23,Laptop
+2194,Premium,14,12/09/22,12/07/23,Smart TV
+2195,Basic,14,16-08-22,10/07/23,Smart TV
+2196,Premium,15,16-08-22,09/07/23,Smartphone
+2197,Basic,11,13-08-22,10/07/23,Smartphone
+2198,Standard,12,12/08/22,11/07/23,Smart TV
+2199,Standard,14,13-08-22,09/07/23,Tablet
+2200,Basic,14,30-07-22,12/07/23,Laptop
+2201,Premium,12,25-07-22,10/07/23,Laptop
+2202,Basic,14,25-07-22,11/07/23,Tablet
+2203,Standard,14,26-07-22,10/07/23,Smartphone
+2204,Premium,11,25-07-22,13-07-23,Smart TV
+2205,Basic,12,23-07-22,09/07/23,Smart TV
+2206,Premium,11,18-07-22,11/07/23,Smart TV
+2207,Basic,13,13-07-22,10/07/23,Laptop
+2208,Standard,13,13-07-22,12/07/23,Laptop
+2209,Standard,10,13-07-22,09/07/23,Tablet
+2210,Basic,11,13-07-22,11/07/23,Smartphone
+2211,Premium,13,13-07-22,09/07/23,Laptop
+2212,Basic,14,14-07-22,11/07/23,Smart TV
+2213,Standard,15,15-07-22,09/07/23,Tablet
+2214,Premium,12,16-07-22,12/07/23,Tablet
+2215,Basic,13,18-07-22,09/07/23,Smartphone
+2216,Premium,15,21-07-22,11/07/23,Smart TV
+2217,Basic,11,24-07-22,09/07/23,Tablet
+2218,Standard,15,29-07-22,12/07/23,Tablet
+2219,Standard,10,06/08/22,10/07/23,Laptop
+2220,Basic,15,11/08/22,11/07/23,Smartphone
+2221,Premium,14,16-08-22,09/07/23,Smart TV
+2222,Basic,10,21-08-22,13-07-23,Smartphone
+2223,Standard,12,22-08-22,10/07/23,Laptop
+2224,Premium,10,24-08-22,10/07/23,Tablet
+2225,Basic,13,02/09/22,12/07/23,Smart TV
+2226,Premium,13,06/09/22,13-07-23,Laptop
+2227,Basic,11,11/09/22,10/07/23,Laptop
+2228,Standard,15,16-09-22,10/07/23,Tablet
+2229,Standard,11,22-09-22,12/07/23,Smartphone
+2230,Basic,12,26-09-22,12/07/23,Laptop
+2231,Premium,10,02/10/22,09/07/23,Smartphone
+2232,Basic,13,04/10/22,10/07/23,Laptop
+2233,Standard,14,09/10/22,12/07/23,Smartphone
+2234,Premium,15,11/10/22,11/07/23,Tablet
+2235,Basic,15,15-10-22,09/07/23,Laptop
+2236,Premium,11,16-10-22,10/07/23,Smart TV
+2237,Basic,13,18-10-22,11/07/23,Smart TV
+2238,Standard,14,21-10-22,10/07/23,Smartphone
+2239,Standard,12,22-10-22,08/07/23,Smart TV
+2240,Basic,12,25-10-22,11/07/23,Laptop
+2241,Premium,11,29-10-22,11/07/23,Tablet
+2242,Basic,12,30-10-22,10/07/23,Smart TV
+2243,Standard,10,04/11/22,09/07/23,Laptop
+2244,Premium,10,05/11/22,12/07/23,Smart TV
+2245,Basic,15,07/11/22,10/07/23,Smart TV
+2246,Basic,15,08/11/22,10/07/23,Smart TV
+2247,Basic,15,09/11/22,10/07/23,Tablet
+2248,Standard,15,10/11/22,11/07/23,Tablet
+2249,Premium,12,11/11/22,10/07/23,Smartphone
+2250,Basic,14,10/11/22,11/07/23,Tablet
+2251,Basic,13,10/11/22,09/07/23,Laptop
+2252,Premium,12,11/11/22,11/07/23,Tablet
+2253,Standard,10,07/11/22,11/07/23,Laptop
+2254,Standard,11,04/11/22,11/07/23,Laptop
+2255,Basic,15,31-10-22,09/07/23,Laptop
+2256,Premium,15,29-10-22,11/07/23,Laptop
+2257,Standard,12,20-10-22,10/07/23,Laptop
+2258,Basic,13,14-10-22,11/07/23,Laptop
+2259,Standard,11,12/10/22,10/07/23,Laptop
+2260,Premium,10,01/10/22,11/07/23,Tablet
+2261,Basic,10,25-09-22,10/07/23,Tablet
+2262,Premium,10,23-09-22,10/07/23,Smartphone
+2263,Standard,14,19-09-22,09/07/23,Tablet
+2264,Basic,12,02/09/22,12/07/23,Smartphone
+2265,Standard,10,30-08-22,10/07/23,Tablet
+2266,Premium,15,16-08-22,09/07/23,Tablet
+2267,Basic,11,15-08-22,10/07/23,Smartphone
+2268,Standard,15,16-08-22,11/07/23,Smart TV
+2269,Premium,15,01/08/22,10/07/23,Smartphone
+2270,Basic,14,27-07-22,14-07-23,Smart TV
+2271,Premium,14,26-07-22,10/07/23,Laptop
+2272,Basic,13,26-07-22,11/07/23,Smart TV
+2273,Standard,15,27-07-22,11/07/23,Smartphone
+2274,Standard,10,26-07-22,13-07-23,Tablet
+2275,Basic,11,23-07-22,09/07/23,Smart TV
+2276,Premium,12,20-07-22,11/07/23,Smartphone
+2277,Basic,14,14-07-22,10/07/23,Smart TV
+2278,Standard,15,14-07-22,12/07/23,Tablet
+2279,Premium,10,14-07-22,10/07/23,Smart TV
+2280,Basic,13,13-07-22,12/07/23,Smart TV
+2281,Premium,14,14-07-22,10/07/23,Tablet
+2282,Basic,10,15-07-22,11/07/23,Smartphone
+2283,Standard,13,16-07-22,10/07/23,Smart TV
+2284,Standard,12,18-07-22,12/07/23,Smartphone
+2285,Basic,13,19-07-22,10/07/23,Smartphone
+2286,Premium,15,22-07-22,12/07/23,Laptop
+2287,Basic,12,27-07-22,09/07/23,Tablet
+2288,Standard,13,02/08/22,13-07-23,Smartphone
+2289,Premium,10,10/08/22,10/07/23,Tablet
+2290,Basic,13,15-08-22,11/07/23,Smartphone
+2291,Premium,11,18-08-22,11/07/23,Laptop
+2292,Basic,12,20-08-22,14-07-23,Smart TV
+2293,Standard,12,23-08-22,11/07/23,Tablet
+2294,Standard,14,24-08-22,10/07/23,Smartphone
+2295,Basic,11,30-08-22,13-07-23,Smart TV
+2296,Premium,10,06/09/22,13-07-23,Smartphone
+2297,Basic,13,13-09-22,10/07/23,Laptop
+2298,Standard,12,18-09-22,10/07/23,Tablet
+2299,Premium,14,22-09-22,12/07/23,Smartphone
+2300,Basic,13,28-09-22,12/07/23,Tablet
+2301,Premium,13,03/10/22,09/07/23,Laptop
+2302,Basic,11,05/10/22,10/07/23,Smartphone
+2303,Standard,14,09/10/22,12/07/23,Laptop
+2304,Standard,14,15-10-22,11/07/23,Tablet
+2305,Basic,15,16-10-22,09/07/23,Smartphone
+2306,Premium,10,18-10-22,11/07/23,Smart TV
+2307,Basic,14,19-10-22,12/07/23,Smartphone
+2308,Standard,11,22-10-22,11/07/23,Smart TV
+2309,Premium,12,23-10-22,09/07/23,Smartphone
+2310,Basic,10,29-10-22,12/07/23,Tablet
+2311,Premium,14,30-10-22,11/07/23,Smart TV
+2312,Basic,12,03/11/22,11/07/23,Smartphone
+2313,Standard,11,04/11/22,09/07/23,Tablet
+2314,Standard,12,05/11/22,12/07/23,Smart TV
+2315,Basic,12,07/11/22,10/07/23,Laptop
+2316,Premium,14,09/11/22,11/07/23,Tablet
+2317,Basic,14,10/11/22,10/07/23,Smart TV
+2318,Standard,11,11/11/22,12/07/23,Smart TV
+2319,Premium,13,11/11/22,11/07/23,Smart TV
+2320,Basic,14,10/11/22,11/07/23,Smart TV
+2321,Basic,12,11/11/22,09/07/23,Smart TV
+2322,Basic,15,12/11/22,11/07/23,Smart TV
+2323,Standard,12,07/11/22,11/07/23,Laptop
+2324,Premium,13,04/11/22,11/07/23,Smart TV
+2325,Basic,13,03/11/22,11/07/23,Laptop
+2326,Basic,12,01/11/22,11/07/23,Tablet
+2327,Premium,10,29-10-22,11/07/23,Tablet
+2328,Standard,13,26-10-22,11/07/23,Laptop
+2329,Standard,12,25-10-22,10/07/23,Smart TV
+2330,Basic,12,22-10-22,13-07-23,Smartphone
+2331,Premium,13,16-10-22,10/07/23,Smart TV
+2332,Standard,10,15-10-22,10/07/23,Smart TV
+2333,Basic,12,19-09-22,11/07/23,Tablet
+2334,Standard,13,16-09-22,12/07/23,Smartphone
+2335,Premium,15,08/09/22,10/07/23,Laptop
+2336,Basic,14,21-08-22,12/07/23,Smartphone
+2337,Premium,10,20-08-22,10/07/23,Smartphone
+2338,Standard,10,10/08/22,11/07/23,Tablet
+2339,Basic,13,31-07-22,11/07/23,Smartphone
+2340,Standard,15,30-07-22,14-07-23,Laptop
+2341,Premium,11,31-07-22,10/07/23,Tablet
+2342,Basic,11,30-07-22,12/07/23,Smart TV
+2343,Standard,10,30-07-22,11/07/23,Laptop
+2344,Premium,10,27-07-22,13-07-23,Tablet
+2345,Basic,11,21-07-22,10/07/23,Smartphone
+2346,Premium,10,20-07-22,12/07/23,Smartphone
+2347,Basic,13,16-07-22,10/07/23,Smart TV
+2348,Standard,10,16-07-22,12/07/23,Smart TV
+2349,Standard,11,14-07-22,11/07/23,Tablet
+2350,Basic,12,14-07-22,13-07-23,Laptop
+2351,Premium,14,15-07-22,10/07/23,Smartphone
+2352,Basic,11,16-07-22,12/07/23,Smart TV
+2353,Standard,15,18-07-22,10/07/23,Laptop
+2354,Premium,13,19-07-22,13-07-23,Smart TV
+2355,Basic,13,22-07-22,10/07/23,Laptop
+2356,Premium,13,25-07-22,12/07/23,Smartphone
+2357,Basic,13,26-07-22,11/07/23,Smartphone
+2358,Standard,15,04/08/22,14-07-23,Smartphone
+2359,Standard,13,12/08/22,11/07/23,Laptop
+2360,Basic,13,14-08-22,11/07/23,Tablet
+2361,Premium,14,16-08-22,13-07-23,Smartphone
+2362,Basic,12,17-08-22,14-07-23,Smartphone
+2363,Standard,11,22-08-22,11/07/23,Smart TV
+2364,Premium,13,26-08-22,11/07/23,Smart TV
+2365,Basic,11,06/09/22,13-07-23,Smartphone
+2366,Premium,11,09/09/22,13-07-23,Smart TV
+2367,Basic,12,17-09-22,10/07/23,Tablet
+2368,Standard,14,19-09-22,11/07/23,Laptop
+2369,Standard,11,24-09-22,13-07-23,Smartphone
+2370,Basic,11,29-09-22,12/07/23,Laptop
+2371,Premium,15,03/10/22,10/07/23,Smartphone
+2372,Basic,15,07/10/22,10/07/23,Tablet
+2373,Standard,14,14-10-22,13-07-23,Tablet
+2374,Premium,15,16-10-22,12/07/23,Tablet
+2375,Basic,13,18-10-22,10/07/23,Laptop
+2376,Premium,12,19-10-22,12/07/23,Smart TV
+2377,Basic,14,20-10-22,12/07/23,Tablet
+2378,Standard,11,22-10-22,11/07/23,Smart TV
+2379,Standard,11,25-10-22,09/07/23,Smartphone
+2380,Basic,13,27-10-22,12/07/23,Smartphone
+2381,Premium,12,30-10-22,11/07/23,Laptop
+2382,Basic,12,01/11/22,11/07/23,Tablet
+2383,Standard,10,05/11/22,10/07/23,Tablet
+2384,Premium,14,07/11/22,12/07/23,Smart TV
+2385,Basic,14,08/11/22,11/07/23,Tablet
+2386,Premium,11,10/11/22,12/07/23,Smartphone
+2387,Basic,15,11/11/22,10/07/23,Smartphone
+2388,Standard,14,12/11/22,12/07/23,Tablet
+2389,Standard,12,11/11/22,12/07/23,Smart TV
+2390,Basic,11,11/11/22,12/07/23,Smartphone
+2391,Premium,11,12/11/22,10/07/23,Tablet
+2392,Basic,14,11/11/22,12/07/23,Tablet
+2393,Standard,12,07/11/22,11/07/23,Tablet
+2394,Premium,13,05/11/22,12/07/23,Smartphone
+2395,Basic,13,02/11/22,11/07/23,Smart TV
+2396,Basic,10,31-10-22,13-07-23,Smartphone
+2397,Basic,15,29-10-22,11/07/23,Smartphone
+2398,Standard,10,25-10-22,11/07/23,Smart TV
+2399,Premium,14,23-10-22,10/07/23,Tablet
+2400,Basic,10,17-10-22,13-07-23,Laptop
+2401,Basic,11,16-10-22,11/07/23,Laptop
+2402,Premium,12,05/10/22,11/07/23,Smartphone
+2403,Standard,15,17-09-22,11/07/23,Laptop
+2404,Standard,12,17-09-22,12/07/23,Tablet
+2405,Basic,12,06/09/22,11/07/23,Smart TV
+2406,Premium,13,30-08-22,15-07-23,Smart TV
+2407,Standard,11,29-08-22,11/07/23,Smartphone
+2408,Basic,12,25-08-22,13-07-23,Smartphone
+2409,Standard,14,03/08/22,11/07/23,Laptop
+2410,Premium,12,02/08/22,14-07-23,Smartphone
+2411,Basic,15,02/08/22,11/07/23,Smartphone
+2412,Premium,12,01/08/22,13-07-23,Smart TV
+2413,Standard,13,31-07-22,11/07/23,Tablet
+2414,Basic,10,22-07-22,13-07-23,Smart TV
+2415,Standard,14,22-07-22,11/07/23,Smart TV
+2416,Premium,14,19-07-22,13-07-23,Tablet
+2417,Basic,15,17-07-22,11/07/23,Smart TV
+2418,Standard,13,16-07-22,13-07-23,Laptop
+2419,Premium,14,16-07-22,11/07/23,Smart TV
+2420,Basic,13,16-07-22,13-07-23,Laptop
+2421,Premium,10,16-07-22,11/07/23,Smart TV
+2422,Basic,14,17-07-22,12/07/23,Smart TV
+2423,Standard,12,19-07-22,11/07/23,Laptop
+2424,Standard,14,20-07-22,14-07-23,Laptop
+2425,Basic,12,21-07-22,10/07/23,Tablet
+2426,Premium,15,23-07-22,12/07/23,Smartphone
+2427,Basic,15,03/08/22,14-07-23,Smartphone
+2428,Standard,12,06/08/22,15-07-23,Tablet
+2429,Premium,11,10/08/22,12/07/23,Smartphone
+2430,Basic,10,13-08-22,11/07/23,Tablet
+2431,Premium,12,15-08-22,14-07-23,Smart TV
+2432,Basic,11,19-08-22,14-07-23,Tablet
+2433,Standard,10,22-08-22,11/07/23,Tablet
+2434,Standard,11,28-08-22,11/07/23,Smart TV
+2435,Basic,14,06/09/22,13-07-23,Smartphone
+2436,Premium,14,16-09-22,13-07-23,Smart TV
+2437,Basic,11,18-09-22,11/07/23,Smart TV
+2438,Standard,12,23-09-22,11/07/23,Smart TV
+2439,Premium,10,28-09-22,13-07-23,Laptop
+2440,Basic,14,29-09-22,12/07/23,Laptop
+2441,Premium,10,07/10/22,10/07/23,Smartphone
+2442,Basic,11,08/10/22,12/07/23,Smartphone
+2443,Standard,13,10/10/22,13-07-23,Laptop
+2444,Standard,15,14-10-22,12/07/23,Smartphone
+2445,Basic,14,16-10-22,10/07/23,Smartphone
+2446,Premium,11,18-10-22,12/07/23,Tablet
+2447,Basic,14,21-10-22,12/07/23,Tablet
+2448,Standard,13,24-10-22,12/07/23,Tablet
+2449,Premium,10,27-10-22,09/07/23,Smart TV
+2450,Basic,13,29-10-22,13-07-23,Smartphone
+2451,Premium,15,31-10-22,12/07/23,Tablet
+2452,Basic,14,04/11/22,13-07-23,Tablet
+2453,Standard,15,06/11/22,11/07/23,Smartphone
+2454,Standard,10,08/11/22,13-07-23,Smartphone
+2455,Basic,10,09/11/22,11/07/23,Tablet
+2456,Premium,13,11/11/22,13-07-23,Smartphone
+2457,Basic,11,12/11/22,10/07/23,Tablet
+2458,Standard,12,12/11/22,12/07/23,Smart TV
+2459,Premium,12,12/11/22,12/07/23,Smart TV
+2460,Basic,15,12/11/22,13-07-23,Smart TV
+2461,Premium,13,13-11-22,12/07/23,Laptop
+2462,Basic,11,13-11-22,13-07-23,Smart TV
+2463,Standard,10,12/11/22,11/07/23,Smart TV
+2464,Standard,12,05/11/22,12/07/23,Smartphone
+2465,Basic,15,03/11/22,11/07/23,Tablet
+2466,Premium,12,30-10-22,14-07-23,Laptop
+2467,Basic,15,26-10-22,11/07/23,Smartphone
+2468,Standard,14,24-10-22,12/07/23,Smartphone
+2469,Premium,12,24-10-22,11/07/23,Laptop
+2470,Basic,13,20-10-22,13-07-23,Tablet
+2471,Basic,10,17-10-22,11/07/23,Smartphone
+2472,Basic,14,29-09-22,14-07-23,Tablet
+2473,Standard,12,28-09-22,11/07/23,Laptop
+2474,Premium,10,06/09/22,12/07/23,Smart TV
+2475,Basic,12,05/09/22,11/07/23,Tablet
+2476,Basic,13,31-08-22,15-07-23,Tablet
+2477,Premium,12,30-08-22,12/07/23,Laptop
+2478,Standard,10,16-08-22,13-07-23,Tablet
+2479,Standard,11,16-08-22,11/07/23,Laptop
+2480,Basic,13,07/08/22,14-07-23,Laptop
+2481,Premium,10,05/08/22,12/07/23,Laptop
+2482,Standard,13,06/08/22,14-07-23,Laptop
+2483,Basic,15,28-07-22,11/07/23,Laptop
+2484,Standard,11,29-07-22,13-07-23,Smart TV
+2485,Premium,14,25-07-22,12/07/23,Tablet
+2486,Basic,10,25-07-22,14-07-23,Smartphone
+2487,Premium,11,25-07-22,12/07/23,Smart TV
+2488,Standard,11,18-07-22,13-07-23,Smartphone
+2489,Basic,11,17-07-22,12/07/23,Smartphone
+2490,Standard,10,17-07-22,15-07-23,Smart TV
+2491,Premium,13,18-07-22,11/07/23,Smartphone
+2492,Basic,14,19-07-22,12/07/23,Laptop
+2493,Standard,11,20-07-22,11/07/23,Smart TV
+2494,Premium,12,21-07-22,15-07-23,Smart TV
+2495,Basic,15,23-07-22,12/07/23,Laptop
+2496,Premium,14,25-07-22,12/07/23,Smart TV
+2497,Basic,15,04/08/22,14-07-23,Smart TV
+2498,Standard,12,09/08/22,15-07-23,Laptop
+2499,Standard,13,12/08/22,12/07/23,Tablet
+2500,Basic,15,13-08-22,12/07/23,Smart TV
